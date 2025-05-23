@@ -74,8 +74,8 @@ def process_text(text):
     return all_embeds, sents_cleaneded
 
 # Load ableist phrases and embed
-with open("ableist_phrases.csv", "r") as f:
-    phrases_lst = [line.strip() for line in f.readlines()[1:]]
+with open("ableist_phrases.txt", "r") as f:
+    phrases_lst = [line.strip() for line in f if line.strip()]
 phrase_embed = model.encode(phrases_lst)
 
 # Open test file, clean and embed
