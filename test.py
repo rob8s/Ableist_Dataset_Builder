@@ -5,19 +5,18 @@ from nltk import sent_tokenize
 nltk.download('punkt')
 import re
 from bs4 import BeautifulSoup
+import numpy as np
 
 model = SentenceTransformer('all-mpnet-base-v2')
 
 def clean_text(raw_text):
-    """
-    Cleans input text by removing HTML tags, line-break hyphenation, extra whitespace,
-    and certain markdown/footnote elements. Paragraph breaks are preserved.
-
+    """Remove HTML tags, fix line breaks, and clean up text formatting.
+    
     Args:
-        raw_text (str): Raw text input.
-
+        raw_text (str): Raw text with HTML and formatting issues.
+        
     Returns:
-        str: Cleaned text.
+        str: Clean text ready for processing.
     """
     text = BeautifulSoup(raw_text, "html.parser").get_text()
     text = re.sub(r'-\n', '', text)
@@ -36,42 +35,45 @@ def clean_text(raw_text):
     return text
 
 def split_on_window(sequence, limit=5):
-    """
-    Splits a string into overlapping word windows of a given size.
-
+    """Split sentence into overlapping word windows.
+    
     Args:
-        sequence (str): Sentence to split.
-        limit (int): Window size.
-
+        sequence (str): Sentence to split into windows.
+        limit (int): Number of words per window.
+        
     Returns:
-        list of str: List of overlapping word windows.
+        list: List of overlapping word windows.
     """
     split_sequence = sequence.split()
     iterators = [iter(split_sequence[index:]) for index in range(limit)]
     return [' '.join(window) for window in zip(*iterators)]
 
 def process_text(text):
-    """
-    Cleans and tokenizes text, splits into word windows per sentence,
-    and encodes each window with the model.
-
+    """Clean text, split into sentences and windows, then encode all windows.
+    
     Args:
-        text (str): Raw input text.
-
+        text (str): Raw input text to process.
+        
     Returns:
-        tuple:
-            - List[List[str]]: List of word windows per sentence.
-            - List[List[np.ndarray]]: Embeddings per window per sentence.
-            - List[str]: List of original sentences.
+        tuple: (window_embeddings, window_to_sentence_map, cleaned_sentences)
     """
     document = clean_text(text)
     sents_cleaneded = sent_tokenize(document)
-    all_embeds = []
-    for sentence in sents_cleaneded:
+    
+    # Collect all windows with metadata
+    all_windows = []
+    window_to_sentence = []
+    
+    for sent_idx, sentence in enumerate(sents_cleaneded):
         windows = split_on_window(sentence, 5)
-        embeds = model.encode(windows)
-        all_embeds.append(embeds)
-    return all_embeds, sents_cleaneded
+        for window in windows:
+            all_windows.append(window)
+            window_to_sentence.append(sent_idx)
+    
+    # Encode all windows at once
+    all_embeds = model.encode(all_windows)
+    
+    return all_embeds, window_to_sentence, sents_cleaneded
 
 # Load ableist phrases and embed
 with open("ableist_phrases.txt", "r") as f:
@@ -82,14 +84,17 @@ phrase_embed = model.encode(phrases_lst)
 with open("ACM_Papers_Mistral/3611659.3615713.txt", "r") as f:
     raw_text = f.read()
 
-doc_split, sents_cleaneded = process_text(raw_text)
+all_window_embeds, window_to_sentence, sents_cleaneded = process_text(raw_text)
 
 threshold = 0.85
-for i, sentence in enumerate(doc_split):
-    for j, phrase in enumerate(phrase_embed):
-        for k, window in enumerate(sentence):
-            score = cos_sim(phrase, window)
-            if score >= threshold:
-                print(f"[Phrase: '{phrases_lst[j]}' | Sentence: {sents_cleaneded[i]} | Score: {score}]")
-                break
 
+# Compute all similarities at once - this is the key improvement
+similarities = cos_sim(phrase_embed, all_window_embeds)
+
+# Find matches
+for phrase_idx in range(len(phrases_lst)):
+    for window_idx in range(len(all_window_embeds)):
+        score = similarities[phrase_idx][window_idx]
+        if score >= threshold:
+            sentence_idx = window_to_sentence[window_idx]
+            print(f"[Phrase: '{phrases_lst[phrase_idx]}' | Sentence: {sents_cleaneded[sentence_idx]} | Score: {score}]")
