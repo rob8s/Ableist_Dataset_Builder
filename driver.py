@@ -10,12 +10,13 @@ with open("suggested_replacements.txt") as f:
     alternatives = [line.strip() for line in f if line.strip()]
 
 # Initialize detector
-detector = PhraseDetection(phrases, alternatives=alternatives, window_size=5, threshold=0.8)
+detector = PhraseDetection(phrases, alternatives=alternatives, window_size=5, threshold=0.825)
 
 # Directory of text files
 input_dir = "ACM_Papers_Mistral"
 all_flagged_sentences = []
 
+counter = 0
 # Process each .txt file in directory
 for filename in os.listdir(input_dir):
     if filename.endswith(".txt"):
@@ -25,9 +26,11 @@ for filename in os.listdir(input_dir):
 
         flagged = detector.process_text(paper_text)
         for entry in flagged:
-            entry["Source"] = filename  # Track which file it came from
+            entry["Source"] = filename 
         all_flagged_sentences.extend(flagged)
-        print(len(all_flagged_sentences))
+        counter += 1
+        print(f"Processed {counter} files...")
+        print(f"Found {len(all_flagged_sentences)} so far...")
 
 # Save to a JSON file
 with open("flagged_sentences.json", "w", encoding="utf-8") as f:
