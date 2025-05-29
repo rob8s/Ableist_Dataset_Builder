@@ -77,7 +77,7 @@ class PhraseDetection:
 
             max_similarities = similarity_matrix.max(axis=1)
             best_phrase_idx = max_similarities.argmax()
-            max_score = max_similarities[best_phrase_idx]
+            max_score = max_similarities[best_phrase_idx].item()
 
             if max_score >= self.threshold:
                 if best_phrase_idx < len(self.alternatives):
@@ -89,7 +89,7 @@ class PhraseDetection:
                     flagged_sentences.append({
                         "sentence": sentence,
                         "detected_phrase": best_phrase,
-                        "suggested_alternative": alternative,
+                        # "suggested_alternative": alternative,
                         "similarity_score": max_score
                     })
 

@@ -10,7 +10,7 @@ with open("suggested_replacements.txt") as f:
     alternatives = [line.strip() for line in f if line.strip()]
 
 # Initialize detector
-detector = PhraseDetection(phrases, alternatives=alternatives, window_size=5, threshold=0.825)
+detector = PhraseDetection(phrases, alternatives=alternatives, window_size=7, threshold=0.85)
 
 # Directory of text files
 input_dir = "ACM_Papers_Mistral"
