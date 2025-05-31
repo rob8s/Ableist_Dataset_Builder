@@ -6,15 +6,21 @@
     "Source": "1358628.1358822.txt"
   },
   {
+    "sentence": "Virtual environments for social skills training: the importance of scaffolding in practice Proceedings of the fifth international ACM conference on Assistive technologies, ACM Press, Edinburgh, Scotland, 2002.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9455857276916504,
+    "Source": "1358628.1358896.txt"
+  },
+  {
     "sentence": "However, the concern with social skills is aligned to what most consider the 'core deficit' in autism.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.895014762878418,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8763443231582642,
     "Source": "1414471.1414475.txt"
   },
   {
-    "sentence": "Development and Psychopathology, 18(2):, June 2006.",
-    "detected_phrase": "psychopathology",
-    "similarity_score": 0.8621501922607422,
+    "sentence": "The potential of virtual reality in social skills training for people with autistic spectrum disorders.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9272171854972839,
     "Source": "1414471.1414475.txt"
   },
   {
@@ -25,21 +31,81 @@
   },
   {
     "sentence": "Some frequently associated symptoms seen in autistic persons  include discomfort with eye contact; low levels of expressed empathy; diminished or nonexistent verbal communication; increased sensitivity to touch; repetitive movements, such as flapping hands or rocking; late onset of: Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page.",
-    "detected_phrase": "autistic symptoms",
-    "similarity_score": 0.9380956888198853,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.8747449517250061,
     "Source": "1414471.1414477.txt"
   },
   {
+    "sentence": "Kabot S, Masi W, Segal M. Advances in the Diagnosis and Treatment of Autism Spectrum Disorders.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8795546889305115,
+    "Source": "1463689.1463715.txt"
+  },
+  {
     "sentence": "## ACM Classification Keywords K.COMPUTING MILIEUX, K. 3 COMPUTERS AND EDUCATION, K.3.1 Computer Uses in Education, Subject: CAI ## Introduction Interest has been growing in the use of software technologies to remediate language-based deficits associated with autism spectrum disorders.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9152783155441284,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8945356607437134,
     "Source": "1463689.1463722.txt"
   },
   {
     "sentence": "Lovaas's program of Applied Behavioral Analysis, or 'ABA', along with offshoot techniques, provide a methodology for addressing many deficits associated with autism, including language, speech and nonverbal communication.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9070456624031067,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8898671269416809,
     "Source": "1463689.1463722.txt"
+  },
+  {
+    "sentence": "## In Situ Learning of Social-Emotional Communication An ideal social skills intervention would have a number of components.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8793166875839233,
+    "Source": "1463689.1463723.txt"
+  },
+  {
+    "sentence": "By enabling individuals on the autism spectrum to systemize in situ social-emotional interactions in realtime, we hope to help them enhance their social abilities by: becoming more aware of their own and other's social signals; more appropriately initiating and taking-turns during conversation; and increasing the generalizability of social skills acquired during training.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8573621511459351,
+    "Source": "1463689.1463723.txt"
+  },
+  {
+    "sentence": "To support such expectations, several social skills interventions have been developed.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.944191575050354,
+    "Source": "1463689.1463724.txt"
+  },
+  {
+    "sentence": "Journal of Applied Developmental Psychology, 25 (1).. Gresham, F.M., Sugai, G. and Homer, R.H. Interpreting Outcomes of Social Skills Training for Students with High-Incidence Disabilities.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9130364656448364,
+    "Source": "1463689.1463724.txt"
+  },
+  {
+    "sentence": "## Virtual Environments for Social Skills Training Research on the use of virtual environments for social skills training is currently in its infancy; however, there are positive indications of its potential effectiveness.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9217804670333862,
+    "Source": "1463689.1463725.txt"
+  },
+  {
+    "sentence": "Virtual environments can make possible interventions and applications, such as social skill training, which are of particular interest to ASD research.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9516937732696533,
+    "Source": "1463689.1463725.txt"
+  },
+  {
+    "sentence": "Leonard, A., Mitchell, P. \\& Parsons, S. Finding a place to sit: A preliminary investigation into the effectiveness of Virtual Environments for social skills training for people with Autistic Spectrum Disorders.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9098854064941406,
+    "Source": "1463689.1463725.txt"
+  },
+  {
+    "sentence": "Parsons, S., and Mitchell, P. The potential of virtual reality in social skills training for people with autistic spectrum disorders.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9272172451019287,
+    "Source": "1463689.1463725.txt"
+  },
+  {
+    "sentence": "Parsons, S., Leonard, A., Mitchell, P. Virtual environments for social skills training: comments from two adolescents with autistic spectrum disorder.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9047408103942871,
+    "Source": "1463689.1463725.txt"
   },
   {
     "sentence": "The results also suggest that people with high-functioning autism may wish to fit in socially - a even though they have great problems in doing so - and it is therefore important that the phone of the HIPD is integrated into a socially accepted norm and is up to date - adding to the \"coolness-factor\" that can engender social contact with others.",
@@ -50,13 +116,13 @@
   {
     "sentence": "HANDS Deliverable D2.1.1., http://hands-project.eu Happé, F., 1999, \"Autism: cognitive deficit or cognitive style?",
     "detected_phrase": "autism deficits",
-    "similarity_score": 0.8639799356460571,
+    "similarity_score": 0.8639798760414124,
     "Source": "1541948.1541953.txt"
   },
   {
     "sentence": "2, pp.. Rutter, M., 1983, \"Cognitive deficits in the pathogenesis of autism\", Journal of Child.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.895563006401062,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8671060800552368,
     "Source": "1541948.1541953.txt"
   },
   {
@@ -64,6 +130,12 @@
     "detected_phrase": "the autistic person",
     "similarity_score": 0.8963886499404907,
     "Source": "1579114.1579172.txt"
+  },
+  {
+    "sentence": "## CMC-specific social skills training Current approaches to social skills training focus on making the implicit explicit, giving feedback, and providing opportunities for practice.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9497663974761963,
+    "Source": "1718918.1718991.txt"
   },
   {
     "sentence": "Seltzer, M.M., Krauss, M.W., Shattuck, P.T., Orsmond, G., Swe, A., and Lord, C. The Symptoms of Autism Spectrum Disorders in Adolescence and Adulthood.",
@@ -78,15 +150,33 @@
     "Source": "1731903.1731940.txt"
   },
   {
+    "sentence": "In Gillberg, C., editor, Diagnosis and Treatment of Autism,.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9094964265823364,
+    "Source": "1731903.1731940.txt"
+  },
+  {
+    "sentence": "A recent survey by Putnam and Chong (2008) found that individuals with autism and their caregivers were most interested in interventions relating to social skill building, more so than language skills and other life skills.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9120831489562988,
+    "Source": "1738826.1738870.txt"
+  },
+  {
+    "sentence": "Visual Supports for People with Autism: A Guide for Parents and Professionals.",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.8645418882369995,
+    "Source": "1753326.1753569.txt"
+  },
+  {
     "sentence": "The autism diagnostic observation schedule-generic: A standard measure of social and communication deficits associated with the spectrum of autism.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9173305630683899,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8900821805000305,
     "Source": "1774674.1774693.txt"
   },
   {
     "sentence": "Exploration of objects that have digital effects can in certain circumstances, such as with the AKC, map on to deficits present in disorders such autism.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9217478036880493,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.9102166295051575,
     "Source": "1810543.1810548.txt"
   },
   {
@@ -96,10 +186,46 @@
     "Source": "1810543.1810548.txt"
   },
   {
+    "sentence": "Several studies indicate that social skills training (SST) has the potential to improve the adaptive behaviors and quality of life of ASD children.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.923397421836853,
+    "Source": "1810543.1810569.txt"
+  },
+  {
+    "sentence": "However, given the heterogeneity in the population of children with ASD, in terms of cognitive, language, and social development, a more flexible and adaptable approach to social skills intervention is needed.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9454872012138367,
+    "Source": "1810543.1810569.txt"
+  },
+  {
+    "sentence": "It has been difficult to develop SST intervention paradigms that customize specific social skills training for individual children-especially those functioning at lower levels of language proficiency-that also include effective methods to promote practice and generalization of skills beyond the immediate contexts of the intervention.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8800497055053711,
+    "Source": "1810543.1810569.txt"
+  },
+  {
     "sentence": "Difficulties related to anxiety and aberrant behaviours in children with high functioning autism (HF) can impair academic and social functioning in children and cause significant distress for families.",
     "detected_phrase": "high functioning autism",
     "similarity_score": 0.8757895231246948,
     "Source": "1810543.1810588.txt"
+  },
+  {
+    "sentence": "Visual Supports for People with Autism: A Guide for Parents and Professionals.",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.8645418882369995,
+    "Source": "1810543.1810602.txt"
+  },
+  {
+    "sentence": "In this paper, we present the results of a study conducted in three public schools that use an educational and behavioral intervention for the instruction of social skills in changing situational contexts.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9091756343841553,
+    "Source": "1864349.1864359.txt"
+  },
+  {
+    "sentence": "Social skills training is an effective way to develop age and functioning-level appropriate social skills to be used in a variety of situations.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9207554459571838,
+    "Source": "1864349.1864359.txt"
   },
   {
     "sentence": "Rao, P., D. Biedel, and M. Murray, Social skills interventions for children with asperger's syndrom or high functioning autism: A review and recommendations.",
@@ -108,34 +234,70 @@
     "Source": "1864349.1864359.txt"
   },
   {
-    "sentence": "# Broadening Accessibility Through Special Interests: A New Approach for Software Customization Robert MorrisMIT Media Lab75 Amherst StCambridge, MA 02139rmorris@media.mit.edu Connor KirschbaumMIT Media Lab75 Amherst StCambridge, MA 02139ckbaum@mit.eduRosalind PicardMIT Media Lab75 Amherst StCambridge, MA 02139picard@media.mit.edu ## ABSTRACT Individuals diagnosed with autism spectrum disorder (ASD) often fixate on narrow, restricted interests.",
-    "detected_phrase": "special interests",
-    "similarity_score": 0.8564857244491577,
-    "Source": "1878803.1878834.txt"
-  },
-  {
     "sentence": "Barbaresi, \"Incidence of gastrointestinal symptoms in children with autism: a population-based study,\" Pediatrics, vol.",
     "detected_phrase": "symptoms of autism",
     "similarity_score": 0.9174322485923767,
     "Source": "1878803.1878834.txt"
   },
   {
-    "sentence": "Development and Psychopathology, 12(2):.",
-    "detected_phrase": "psychopathology",
-    "similarity_score": 0.866207480430603,
-    "Source": "1944506.1944551.txt"
+    "sentence": "The autism diagnostic observation schedule-generic: A standard measure of social and communication deficits associated with the spectrum of autism.",
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8900821805000305,
+    "Source": "1957656.1957785.txt"
   },
   {
-    "sentence": "The autism diagnostic observation schedule-generic: A standard measure of social and communication deficits associated with the spectrum of autism.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9173305630683899,
-    "Source": "1957656.1957785.txt"
+    "sentence": "The main propositions, for which some evidence already exists, are that (1) interaction with (robotic) technology is free of social tension for children with ASD and (2) this can therefore, by removing inhibitions, aid the acquisition and training of social skills, and, moreover (3), that these skills can be transferred and used productively in social interaction with other humans.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9445182085037231,
+    "Source": "1962300.1962389.txt"
   },
   {
     "sentence": "Despite these amounts of money spent, at present, there is no 'cure' for autism (Gezondheidsraad, 2009).",
     "detected_phrase": "cure autism",
-    "similarity_score": 0.90293288230896,
+    "similarity_score": 0.9029330015182495,
     "Source": "1962300.1962389.txt"
+  },
+  {
+    "sentence": "Gains made in teaching and training social skills at this age may have a large positive effect, both functionally and financially.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8914620876312256,
+    "Source": "1962300.1962389.txt"
+  },
+  {
+    "sentence": "However, the empirical support for the effectiveness of social skills training in autism is generally is regarded poor.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.914364218711853,
+    "Source": "1962300.1962389.txt"
+  },
+  {
+    "sentence": "## GREETINGS, TYPICAL AND ASD DEVIATIONS As an example of pragmatic social skills that may be taught to and trained by children, aged 3 to 7 years, we propose to focus on greetings (Arendsen, 2008).",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8520760536193848,
+    "Source": "1962300.1962389.txt"
+  },
+  {
+    "sentence": "## Keywords autism spectrum disorder, humanoid robot, visual programming environment ## INTRODUCTION In recent years, noticeable progress has been made towards the use of robotics for people with autism spectrum disorder (ASD) in social skill training (Barakova et al., 2009; Feil-Seifer \\& Mataric, 2008), promoting explorative behavior (Dautenhahn \\& Werry, 2004) and early diagnosis (Scassellati, 2005).",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.906101405620575,
+    "Source": "1962300.1962390.txt"
+  },
+  {
+    "sentence": "Since ASD patients like predictability and being in control, the repetitive and simplified movements of NAO can be beneficial for social skill training.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8743635416030884,
+    "Source": "1962300.1962390.txt"
+  },
+  {
+    "sentence": "Diagnosis and treatment of autism.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.910717785358429,
+    "Source": "1978942.1978944.txt"
+  },
+  {
+    "sentence": "### 5.3 Facilitating the Capture of Problem Behaviors Children with autism sometimes engage in problem behaviors such as tantrums, biting, and other potentially self-injurious or aggressive behaviors.",
+    "detected_phrase": "problem behavior for autism",
+    "similarity_score": 0.8949351906776428,
+    "Source": "2049536.2049542.txt"
   },
   {
     "sentence": "Weru, J. W. Cultural Influences on the Behavioral Symptoms of Autism in Kenya and the United States of America, University of Texas.",
@@ -144,22 +306,64 @@
     "Source": "2049536.2049542.txt"
   },
   {
+    "sentence": "This point is important, since the idea of the study was to use the robot as a tool to help children with special needs to learn and train social skills and to transfer this knowledge into different social settings.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8827214241027832,
+    "Source": "2074712.2074734.txt"
+  },
+  {
+    "sentence": "SOCIAL SKILLS TRAINING USING ICT In ASD education, it is important to provide formal training in social skills because children with ASD often interpret language and social signals literally, and don't always generalize from one situation to another.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8832409381866455,
+    "Source": "2132176.2132254.txt"
+  },
+  {
+    "sentence": "Virtual environments for social skills training: the importance of scaffolding in practice.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9455857276916504,
+    "Source": "2132176.2132254.txt"
+  },
+  {
     "sentence": "We contend that appropriate social support is critical for independence of adults with autism and decreasing the burden currently shouldered by primary caregivers.",
     "detected_phrase": "burden of autism",
-    "similarity_score": 0.8621241450309753,
+    "similarity_score": 0.8621240854263306,
     "Source": "2145204.2145300.txt"
   },
   {
     "sentence": "Autism Spectrum Disorder (ASD) - Sign and Symptoms, http://www.cdc.gov/ncbddd/autism/signs.html, Centers for Disease Control and Prevention (CDC), retrieved November 2011 Autism, http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0002494/, PubMed Health, retrieved November 2011.",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.8659451007843018,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.8631343245506287,
     "Source": "2184451.2184463.txt"
   },
   {
-    "sentence": "Monotropism also results in children having very particular, special interests, for example in serial numbers of technical appliances or names of trees.",
-    "detected_phrase": "special interests",
-    "similarity_score": 0.873137354850769,
-    "Source": "2307096.2307112.txt"
+    "sentence": "The Social Compass curriculum is a behavioral and educational curriculum identified as the best social curriculum for social skills training.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8739441633224487,
+    "Source": "2207676.2208649.txt"
+  },
+  {
+    "sentence": "First, the design of MOSOCO is based on the application of one particular classroom-based social skills training.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8995983004570007,
+    "Source": "2207676.2208649.txt"
+  },
+  {
+    "sentence": "Likewise, open questions remain in exploring other assistive technologies based on a different social skills training techniques in this context.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9237761497497559,
+    "Source": "2207676.2208649.txt"
+  },
+  {
+    "sentence": "Gonzalez-Lopez, A. and Kamps, D. M. Social skills training to increase social interactions between children with autism and their typical peers.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8857935667037964,
+    "Source": "2207676.2208649.txt"
+  },
+  {
+    "sentence": "21.Owens, G., Granader, Y., Humprey A. and BaronCohen, S. LEGO@Therapy and the social use of language programme: an evaluation of two social-skills interventions for children with high functioning autism and asperger syndrome.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8528971672058105,
+    "Source": "2207676.2208650.txt"
   },
   {
     "sentence": "### 4.1 Pilot In order to test our initial ideas, a pilot study was conducted with one 8 -year-old child who has a diagnosis of Asperger's Syndrome (AS), a high-functioning form of autism.",
@@ -175,20 +379,32 @@
   },
   {
     "sentence": "Baron-Cohen, S. Social and pragmatic deficits in autism: Cognitive or affective?",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.8930293321609497,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8601455688476562,
     "Source": "2307096.2307112.txt"
   },
   {
-    "sentence": "Morris, R., Kirschbaum, C., and Picard, R. Broadening accessibility through special interests: a new approach for software customization.",
-    "detected_phrase": "special interests",
-    "similarity_score": 0.8564857840538025,
+    "sentence": "Kerr, S. J., Neale, H. R., and Cobb, S. V. G. Virtual environments for social skills training: the importance of scaffolding in practice.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9455857276916504,
     "Source": "2317956.2317977.txt"
+  },
+  {
+    "sentence": "# Parent-Driven Use of Wearable Cameras for Autism Support: A Field Study with Families Gabriela Marcu, Anind K. Dey, Sara KieslerHuman-Computer Interaction InstituteCarnegie Mellon University5000 Forbes Ave, Pittsburgh, PA\\{gmarcu, anind, kiesler\\}@cs.cmu.edu #### Abstract Recorded images of children's activities can be useful to caregivers and clinicians who need behavioral evidence to support children with autism.",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.8514926433563232,
+    "Source": "2370216.2370277.txt"
   },
   {
     "sentence": "In addition to enabling and encouraging communication, use of visual artifacts has been shown to reduce the symptoms associated with autism and other disabilities.",
     "detected_phrase": "symptoms of autism",
     "similarity_score": 0.9463790655136108,
+    "Source": "2370216.2370277.txt"
+  },
+  {
+    "sentence": "Visual Supports for People with Autism: A Guide for Parents and Professionals.",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.8645418882369995,
     "Source": "2370216.2370277.txt"
   },
   {
@@ -199,8 +415,8 @@
   },
   {
     "sentence": "# Graph-based alignment of narratives for automated neurological assessment Emily T. Prud'hommeaux and Brian RoarkCenter for Spoken Language UnderstandingOregon Health \\& Science University\\{emilypx,roarkbr\\}@gmail.com #### Abstract Narrative recall tasks are widely used in neuropsychological evaluation protocols in order to detect symptoms of disorders such as autism, language impairment, and dementia.",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.9422937631607056,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.9296988248825073,
     "Source": "2391123.2391125.txt"
   },
   {
@@ -210,10 +426,40 @@
     "Source": "2413097.2413124.txt"
   },
   {
+    "sentence": "# RoDiCA: a Human-Robot Interaction System for Treatment of Childhood Autism Spectrum Disorders Isura RanatungaNext Gen Systems GroupUniversity of Texas at ArlingtonArlington, TX 76010isura.ranatunga@mavs.uta.eduNicoleta BugnariuUNT Health Science Center3500 Camp Bowie Blvd.Fort Worth, TX 76107nicoleta.bugnariu@unthsc.eduNahum A. TorresNext Gen Systems GroupUniversity of Texas at ArlingtonArlington, TX 76010nahum.torres-arenas@mavs.uta.eduMatt StevensonHanson RoboKind1201 Creekfield Dr.Plano, TX 75075matt@hansonRoboKind.com Rita Patterson UNT Health Science Center 3500 Camp Bowie Blvd.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8533831834793091,
+    "Source": "2413097.2413160.txt"
+  },
+  {
+    "sentence": "Fort Worth, TX 76107 rita.patterson @unthsc.edu ## A ABSTRACT In this paper, we describe the implementation of interactive robotics in virtual environments accomplishing human-robot interaction for treatment of Autism Spectrum Disorders (ASDs).",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8916429877281189,
+    "Source": "2413097.2413160.txt"
+  },
+  {
+    "sentence": "Harris, S. L. and Delmolino, L. Applied Behavior Analysis: Its Application in the Treatment of Autism and Related Disorders in Young Children.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9196491241455078,
+    "Source": "2413097.2413160.txt"
+  },
+  {
+    "sentence": "Jensen, V. K. and Sinclair, L. V. Treatment of Autism in Young Children: Behavioral Intervention and Applied Behavior Analysis.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8677141666412354,
+    "Source": "2413097.2413160.txt"
+  },
+  {
     "sentence": "# Imagine That: Creating a 'Third Space' for Young People with High Functioning Autism through the Use of Technology in a Social Setting Alberto RizzoVictoria UniversityPO Box 14428Melbourne 8001alberto.rizzo@vu.edu.au Stefan SchuttVictoria UniversityPO Box 14428Melbourne 8001stefan.schutt@vu.edu.au Dale LinegarVictoria UniversityPO Box 14428Melbourne 8001dale@oztron.com #### Abstract In this paper we describe the knowledge building process involved in creating The Lab, a technology-enabled 'learning community' of young people with Asperger's Syndrome (AS) and High-Functioning Autism (HFA), and their parents.",
     "detected_phrase": "high functioning autism",
     "similarity_score": 0.9120612144470215,
     "Source": "2414536.2414615.txt"
+  },
+  {
+    "sentence": "Video games are emerging as forms of computer-aided interventions for the treatment of autism, however many do not monitor the progression of the child within the game.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9051007032394409,
+    "Source": "2425296.2425302.txt"
   },
   {
     "sentence": "2010] and monitoring a childs behavioural development can be difficult with some technologies designed only for children with high functioning autism [Gotsis et al.",
@@ -222,15 +468,51 @@
     "Source": "2425296.2425302.txt"
   },
   {
+    "sentence": "## 2 Proposed Approach Manipulating the ability to recognize and respond to facial emotion, via BCI, as a treatment for autism is a novel idea, which therefore requires a new intervention.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9118831157684326,
+    "Source": "2466533.2466574.txt"
+  },
+  {
     "sentence": "One recent study explored the role of computer-mediated communication (CMC) and available social media for the support of individuals with high functioning autism, particularly those having a social communication difficulty.",
     "detected_phrase": "high functioning autism",
     "similarity_score": 0.8947770595550537,
     "Source": "2470654.2466439.txt"
   },
   {
+    "sentence": "Marcu, G., Dey, A.K., and Kiesler, S. Parent-driven use of wearable cameras for autism support: a field study with families.",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.851492702960968,
+    "Source": "2470654.2466439.txt"
+  },
+  {
+    "sentence": "The analogy is to treatment of high-functioning autism by behavioral therapy, whereby the patient (in our case, the robot) is given rules to follow blindly to improve social functioning, without real internalization of their rationale.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8711297512054443,
+    "Source": "2484920.2485047.txt"
+  },
+  {
+    "sentence": "The potential of virtual reality in social skills training for people with autistic spectrum disorders.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9272171854972839,
+    "Source": "2485760.2485774.txt"
+  },
+  {
+    "sentence": "Virtual environments for social skills training: comments from two adolescents with autistic spectrum disorder.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9047406911849976,
+    "Source": "2485760.2485774.txt"
+  },
+  {
     "sentence": "Children with the same diagnosis of autism may exhibit different symptoms and may demonstrate markedly different behaviors and skills.",
     "detected_phrase": "symptoms of autism",
     "similarity_score": 0.8590660095214844,
+    "Source": "2490257.2490262.txt"
+  },
+  {
+    "sentence": "The ABA therapy is often used as a treatment for children with autism.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.891578197479248,
     "Source": "2490257.2490262.txt"
   },
   {
@@ -246,6 +528,54 @@
     "Source": "2490257.2490262.txt"
   },
   {
+    "sentence": "In this paper, the authors have adapted their ASys for autism treatment (see Figure 3) from Engström as it provides the most comprehensive treatment model.!",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8626419305801392,
+    "Source": "2501134.2501157.txt"
+  },
+  {
+    "sentence": "An ASys for autism treatment adapted from Engström Within the ASys are seven interacting components: (i) Subject refers to any individual or a group of individuals engaged in an autism treatment; (ii) Object refers to the treatment aim or goal(s); (iii) Tools and Signs are culture-specific components employed to shape the way the subject thinks/acts on the object; (iv) Division of Labor refers to the horizontal division of tasks between cooperating members, and the vertical division of power and status and the ability of the ASys to adapt to circumstances and engage in different activities; (v) Community consists of interdependent professionals sharing activities and social meanings in the autism treatment.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8720575571060181,
+    "Source": "2501134.2501157.txt"
+  },
+  {
+    "sentence": "For psychogogy to succeed as autism treatment, it needs a guiding agent known as psychopomp to lead the subject through the treatment according to its object and transforming the subject to realize the expected outcome.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8538051843643188,
+    "Source": "2501134.2501157.txt"
+  },
+  {
+    "sentence": "[img-4.jpeg](img-4.jpeg) Figure 5: Model of technology from Idrus In autism treatment, the power and effective use of technology depends on how much is understood of pedagogical and epistemological factors vital for designing ASys of technogogic approach to autism treatment.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.858891487121582,
+    "Source": "2501134.2501157.txt"
+  },
+  {
+    "sentence": "The success of techno-psychogogy as ASys for autism treatment depends on two important factors: (i) how well or to what degree the ASys for psychogogy and technogogy can be successfully integrated into one approach for autism treatment; and (ii) the degree of success each of the three guiding agents in transforming the subject with autism according to its respective object to attain the expected outcome in the process.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8636479377746582,
+    "Source": "2501134.2501157.txt"
+  },
+  {
+    "sentence": "Adapted from the Response to Intervention (RtI) initiative first introduced under the Individuals with Disabilities Education Act of 2004 (IDEA) in the United States, the SEA framework is divided into three treatment levels which cover all core autism treatment practices, supplemental autism treatments, and individually customized autism treatments.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8681628704071045,
+    "Source": "2501134.2501158.txt"
+  },
+  {
+    "sentence": "Although SEA covers a wide range of conventional as well as complementary and alternative autism treatments, many of them lack evidences of efficacy (e.g., facilitated communication) or may have side effects (e.g., chelation therapy).",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8819872736930847,
+    "Source": "2501134.2501158.txt"
+  },
+  {
+    "sentence": "Hence, it is very important to identify scientifically validated autism treatments that can offer an effective early intervention program.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9045217633247375,
+    "Source": "2501134.2501158.txt"
+  },
+  {
     "sentence": "In this relationship framework, symptoms of autism that are in the DSM-IV-TR are listed.",
     "detected_phrase": "symptoms of autism",
     "similarity_score": 0.968183159828186,
@@ -254,7 +584,7 @@
   {
     "sentence": "To make this case we first summarise the nature of high-functioning autism, and how those diagnosed with it engage in Lab activities.",
     "detected_phrase": "high functioning autism",
-    "similarity_score": 0.9142009019851685,
+    "similarity_score": 0.9142006635665894,
     "Source": "2541016.2541078.txt"
   },
   {
@@ -270,6 +600,12 @@
     "Source": "2541016.2541078.txt"
   },
   {
+    "sentence": "Thus mediated interaction at The Lab help participants acquire social skills that are not merely stepping-stones to \"real\" socialising, but embody the actual practices of their generation.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8678460121154785,
+    "Source": "2541016.2541078.txt"
+  },
+  {
     "sentence": "Gillberg, C. (2001) Asperger's Syndrome and High Functioning Autism: Shared deficits or different disorders?",
     "detected_phrase": "high functioning autism",
     "similarity_score": 0.8864706158638,
@@ -282,9 +618,15 @@
     "Source": "2541016.2541078.txt"
   },
   {
+    "sentence": "(2009) Evidence-Based Social Skills Interventions for Children with Autism: A Metaanalysis.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8692956566810608,
+    "Source": "2541016.2541078.txt"
+  },
+  {
     "sentence": "This behavior was considered very positive by therapists taking into account that the marked impairment in eye-to-eye gaze is a typical symptom of social interaction deficits which characterizes autism.",
     "detected_phrase": "autism deficits",
-    "similarity_score": 0.8606429100036621,
+    "similarity_score": 0.8606429696083069,
     "Source": "2598153.2598197.txt"
   },
   {
@@ -292,6 +634,12 @@
     "detected_phrase": "high functioning autism",
     "similarity_score": 0.85887610912323,
     "Source": "2598510.2600880.txt"
+  },
+  {
+    "sentence": "Participants were recruited from a clinic specializing in the diagnosis and treatment of children with autism and other neurodevelopmental disorders.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.882411003112793,
+    "Source": "2632048.2632065.txt"
   },
   {
     "sentence": "All of the children in the study were capable of communicating verbally but exhibited challenges with sensory processing and other symptoms related to autism.",
@@ -306,21 +654,9 @@
     "Source": "2632048.2632065.txt"
   },
   {
-    "sentence": "Automating SMM detection in this way could free a human observer to concentrate on and note environmental antecedents and consequences necessary to determine what functional relations exist for this perplexing and often disruptive class of behavior.",
-    "detected_phrase": "disruptive behavior",
-    "similarity_score": 0.8836642503738403,
-    "Source": "2632048.2632096.txt"
-  },
-  {
-    "sentence": "Development and Psychopathology 22, 01 (2010),.",
-    "detected_phrase": "psychopathology",
-    "similarity_score": 0.916300892829895,
-    "Source": "2632048.2632096.txt"
-  },
-  {
     "sentence": "# 'TellMe': Therapeutic Clothing for Children with Autism Spectrum Disorder (ASD) in Daily Life Helen KooUniversity of California at DavisOne Shields AvenueDavis, CA 95616helen.sm.koo@gmail.com #### Abstract Special education and treatment methods in the early ages are the keys to relieving Autism Spectrum Disorder (ASD) symptoms.",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.857967734336853,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.8547549247741699,
     "Source": "2641248.2641278.txt"
   },
   {
@@ -331,9 +667,87 @@
   },
   {
     "sentence": "INTRODUCTION Autism is characterized by deficits in three areas: communication, social interaction, and repetitive behaviors.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.8722807168960571,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8620561361312866,
     "Source": "2662253.2662266.txt"
+  },
+  {
+    "sentence": "Smith, T. (2001): Discrete Trial Training in the Treatment of Autism, Focus on Autism and Other Developmental Disabilities, 16(2):.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9240261316299438,
+    "Source": "2667657.2667668.txt"
+  },
+  {
+    "sentence": "# Automated Social Skills Trainer Hiroki Tanaka , Sakriani Sakti , Graham Neubig , Tomoki Toda , Hideki Negoro , Hidemi Iwasaka , Satoshi Nakamura  Nara Institute of Science and Technology, Japan,  Nara University of Education, Japan \\{hiroki-tan,ssakti,neubig,tomoki,s-nakamura\\}@is.naist.jp,  \\{gorosan,hiwasaka\\} @nara-edu.ac.jp #### Abstract Social skills training is a well-established method to decrease human anxiety and discomfort in social interaction, and acquire social skills.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9327361583709717,
+    "Source": "2678025.2701368.txt"
+  },
+  {
+    "sentence": "In this paper, we attempt to automate the process of social skills training by developing a dialogue system named \"automated social skills trainer,\" which provides social skills training through human-computer interaction.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9127545356750488,
+    "Source": "2678025.2701368.txt"
+  },
+  {
+    "sentence": "Its design is based on conventional social skills training performed by human participants, including defining target skills, modeling, role-play, feedback, reinforcement, and homework.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9066347479820251,
+    "Source": "2678025.2701368.txt"
+  },
+  {
+    "sentence": "Additional experiments measuring the effect of performing social skills training with the proposed application show that most participants improve their skill by using the system for 50 minutes.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9112155437469482,
+    "Source": "2678025.2701368.txt"
+  },
+  {
+    "sentence": "## Author Keywords Social skills training (SST); behavior detection; dialogue system; embodied conversational avatar; computer-based training.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8915390968322754,
+    "Source": "2678025.2701368.txt"
+  },
+  {
+    "sentence": "## DISCUSSION In this paper, we developed a dialogue system named \"automated social skills trainer\" which provides social skills training in the context of human-computer interaction.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9432891607284546,
+    "Source": "2678025.2701368.txt"
+  },
+  {
+    "sentence": "Essau, C. A., Olaya, B., Sasagawa, S., Pithia, J., Bray, D., Ollendick, T. H. Integrating video-feedback and cognitive preparation, social skills training and behavioural activation in a cognitive behavioural therapy in the treatment of childhood anxiety.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.863932192325592,
+    "Source": "2678025.2701368.txt"
+  },
+  {
+    "sentence": "Parsons, S., Mitchell, P. The potential of virtual reality in social skills training for people with autistic spectrum disorders.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9272172451019287,
+    "Source": "2678025.2701368.txt"
+  },
+  {
+    "sentence": "Wallace, C. J., Nelson, C. J., Liberman, R. P., Aitchison, R. A., Lukoff, D., Elder, J. P., Ferris, C. A review and critique of social skills training with schizophrenic patients.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.908301591873169,
+    "Source": "2678025.2701368.txt"
+  },
+  {
+    "sentence": "# Accessing Peer Social Interaction: Using Authorable Virtual Peer Technology as a Component of a Group Social Skills Intervention Program ANDREA TARTARO, Furman UniversityJUSTINE CASSELL, Carnegie Mellon UniversityCORINA RATZ, The Chicago School of Professional PsychologyJENNIFER LIRA, Francis W. Parker SchoolVALERIA NANCLARES-NOGUÉS, Advocate Illinois Masonic Medical Center Autism spectrum and related communication and social disorders can severely affect some children's ability to engage in peer social interaction.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8732306361198425,
+    "Source": "2700434.txt"
+  },
+  {
+    "sentence": "Accessing peer social interaction: Using authorable virtual peer technology as a component of a group social skills intervention program.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8735777139663696,
+    "Source": "2700434.txt"
+  },
+  {
+    "sentence": "Many people with autism have an interest in and affinity for technology.",
+    "detected_phrase": "special interests for autism",
+    "similarity_score": 0.8667222261428833,
+    "Source": "2700648.2809841.txt"
   },
   {
     "sentence": "Usability Issues with 3D User Interfaces for Adolescents with High Functioning Autism, in Proceedings of the 16th international ACM SIGACCESS conference on Computers and accessibility.",
@@ -348,9 +762,39 @@
     "Source": "2702123.2702402.txt"
   },
   {
+    "sentence": "(c) 2015 ACM /2015/06-ART3  15.00{ }^{1}25 \\%10 \\%{ }^{1}5^{\\text {th }}{ }^{2}{ }^{2}M=9.6; \\mathrm{SD}={ }^{\\text {a }}{ }^{3}{ }^{4}{ }^{3}{ }^{4}{ }^{5}{ }^{5}{ }^{\\mathrm{TM}}36,7,27,5,{ }^{\\circledR}$ therapy and the social use of language programme: An evaluation of two social skills interventions for children with high functioning autism and Asperger syndrome.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9045262336730957,
+    "Source": "2751564.txt"
+  },
+  {
+    "sentence": "ACKNOWLEDGMENTS This work was supported by the TxMRC consortium grant: Human-Robot Interaction System for Early Diagnosis and Treatment of Childhood Autism Spectrum Disorders (RoDiCA) and by the US National Science Foundation Grant CPS 1035913.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8711045980453491,
+    "Source": "2769493.2775129.txt"
+  },
+  {
+    "sentence": "I. Ranatunga, N. A. Torres, R. Patterson, N. Bugnariu, M. Stevenson and D. O. Popa, \"Rodica: a human-robot interaction system for treatment of childhood autism spectrum disorders,\" in Proceedings of the 5th International Conference on PErvasive Technologies Related to Assistive Environments, 2012.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8670653700828552,
+    "Source": "2769493.2775129.txt"
+  },
+  {
+    "sentence": "Because such interactions and relationships play a critical role in social learning across the lifespan, many behavioral interventions specifically target social and communication skills with peers.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8565311431884766,
+    "Source": "2771839.2771847.txt"
+  },
+  {
     "sentence": "To that end, we build upon the work by Cassell and Tartaro demonstrating interactions with virtual authorable peers support reciprocity and turn-taking in language-mediated interactions (conversations) between high functioning children with autism and their peers.",
     "detected_phrase": "high functioning autism",
     "similarity_score": 0.8650837540626526,
+    "Source": "2771839.2771847.txt"
+  },
+  {
+    "sentence": "Accessing Peer Social Interaction: Using Authorable Virtual Peer Technology as a Component of a Group Social Skills Intervention Program.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8735777139663696,
     "Source": "2771839.2771847.txt"
   },
   {
@@ -367,14 +811,20 @@
   },
   {
     "sentence": "Sherman, \"Defining the Social Deficits of Autism: The contribution of non-verbal communication measures\" Journal of Child Pscyhology and Psychiatry, Vol 27, No, 5, 1986.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.959997832775116,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.9338486194610596,
+    "Source": "2811780.2811922.txt"
+  },
+  {
+    "sentence": "Rung, M. L. Wehmeyer, M. Agram, S. R. Copeland, B. Hwang, \"Self-prompted Communication book use to increase social interaction among high school students\", The Journal of the Association for Persons with Severe Handicaps, vol 25, 2000, pp C. Hughes, M. Golas, J. Cosgriff, N. Bringhanm, C. Edwards, K. Cashen, \"Effects of a social skills intervention among high school students with intellectual disabilities, and autism and their general education peers\", Research and Practice for Persons with Severe Disabilities, Vol 36.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9016595482826233,
     "Source": "2811780.2811922.txt"
   },
   {
     "sentence": "A standard measure of social and communication deficits associated with the spectrum of autism.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9173306226730347,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8900822401046753,
     "Source": "2818048.2819930.txt"
   },
   {
@@ -396,15 +846,39 @@
     "Source": "2826165.2826168.txt"
   },
   {
+    "sentence": "Researchers revealed such specific topical interests facilitate social skills training sessions for adolescents with autism.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8535921573638916,
+    "Source": "2826165.2826168.txt"
+  },
+  {
+    "sentence": "J. Tse, J. Strulovitch, V. Tagalakis, L. Meng, and E. Fombonne, \"Social skills training for adolescents with Asperger syndrome and high-functioning autism,\" J. Autism Dev.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8722521066665649,
+    "Source": "2826165.2826168.txt"
+  },
+  {
     "sentence": "(2008) demonstrated that a picture-based approach is essential to improve the communication deficit among children with autism, while Meerbeek et al.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.8897477388381958,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8737716674804688,
     "Source": "2838739.2838785.txt"
   },
   {
+    "sentence": "They also found that the students with autism needed more visual supports compared to individuals without autism.",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.8507037162780762,
+    "Source": "2838739.2838785.txt"
+  },
+  {
+    "sentence": "Journal of NeuroEngineering and Rehabilitation, 12 37.Wass S.V., Porayska-Pomsta K. (2014) The uses of cognitive training technologies in the treatment of autism spectrum disorders Autism, 18(8), 38.Whyte E.M., Smyth J.M., Scherf K.S.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9370419979095459,
+    "Source": "2858036.2858322.txt"
+  },
+  {
     "sentence": "The Autism Diagnostic Observation Schedule-Generic: A standard measure of social and communication deficits associated with the spectrum of autism.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9173305630683899,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8900821805000305,
     "Source": "2858036.2858345.txt"
   },
   {
@@ -421,8 +895,8 @@
   },
   {
     "sentence": "The Autism Diagnostic Observation Schedule-Generic: A standard measure of social and communication deficits associated with the spectrum of autism.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9173305630683899,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8900821805000305,
     "Source": "2901790.2901870.txt"
   },
   {
@@ -432,21 +906,15 @@
     "Source": "2901790.2901870.txt"
   },
   {
-    "sentence": "Development and Psychopathology 6, 03 (1994),.",
-    "detected_phrase": "psychopathology",
-    "similarity_score": 0.8897832632064819,
-    "Source": "2901790.2901870.txt"
-  },
-  {
     "sentence": "Defining the social deficits of autism: The contribution of non-verbal communication measures.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.959997832775116,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.93384850025177,
     "Source": "2901790.2901870.txt"
   },
   {
     "sentence": "Next, we characterized play and affective responsivity and its connection to severity of autism symptoms using the Autism Diagnostic Observation Schedule (ADOS) calibrated severity scores.",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.8616039752960205,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.854724109172821,
     "Source": "2906831.2906837.txt"
   },
   {
@@ -457,8 +925,26 @@
   },
   {
     "sentence": "A calibrated severity score (Overall-CSS) is based on percentiles of raw totals corresponding to each ADOS classification and provides a measure of autism symptoms that is independent of age and language ability.",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.9010759592056274,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.8976210951805115,
+    "Source": "2906831.2906837.txt"
+  },
+  {
+    "sentence": "## V. DATA ANALYSIS Data collected during each session was analyzed to (1) compare ASD and TD group child-robot interactions, affective responses and developmental ability during emotion simulations and, (2) assess within-group measures of play, and affective response to explore the potential connection to autism severity.",
+    "detected_phrase": "high severity of autism",
+    "similarity_score": 0.8611105680465698,
+    "Source": "2906831.2906837.txt"
+  },
+  {
+    "sentence": "Next, we include withingroup statistical associations of play, affective response and measures of autism severity (Table II) to explore relative differences between individuals in the ASD group in Subsection B.",
+    "detected_phrase": "low severity of autism",
+    "similarity_score": 0.854865550994873,
+    "Source": "2906831.2906837.txt"
+  },
+  {
+    "sentence": "BETWEEN-GROUP EFFECTS  0.46 Kick  0.51 0.22 RRB-CSS_Severity Hold  -- associated with autism severity across the three ADOS indices evaluated.",
+    "detected_phrase": "high severity of autism",
+    "similarity_score": 0.8502342700958252,
     "Source": "2906831.2906837.txt"
   },
   {
@@ -468,27 +954,33 @@
     "Source": "2906831.2906837.txt"
   },
   {
-    "sentence": "\"The Autism Diagnostic Observation Schedule-Generic: A standard measure of social and communication deficits associated with the spectrum of autism.\"",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9173306226730347,
+    "sentence": "Gotham, K. and Pickles, A. and Lord C. \"Standardizing ADOS scores for a measure of severity in autism spectrum disorders.\"",
+    "detected_phrase": "high severity of autism",
+    "similarity_score": 0.8870400190353394,
     "Source": "2906831.2906837.txt"
   },
   {
-    "sentence": "\\& Psychopathology, 7(01), pp, 2005.",
-    "detected_phrase": "psychopathology",
-    "similarity_score": 0.8907228708267212,
+    "sentence": "\"The Autism Diagnostic Observation Schedule-Generic: A standard measure of social and communication deficits associated with the spectrum of autism.\"",
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8900821208953857,
     "Source": "2906831.2906837.txt"
+  },
+  {
+    "sentence": "Virtual environments for social skills training: comments from two adolescents with autistic spectrum disorder.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9047406911849976,
+    "Source": "2930674.2930695.txt"
+  },
+  {
+    "sentence": "Keywords: facial animation, emotion recognition, nonphotorealistic rendering, autism spectrum disorder Concepts:  Computing methodologies  Animation; Nonphotorealistic rendering;  Applied computing  Psychology; ## 1 Introduction The ability to perceive emotions and other affective traits from human faces is considered the result of a \"social training\" that occurs from early childhood and develops during the adolescence and adulthood.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8734434843063354,
+    "Source": "2931002.2931004.txt"
   },
   {
     "sentence": "They concluded that these provide great value for experimental paradigms in social cognition, specifically those related with non-verbal behavior and perception in participants with high-functioning autism, because it allows to grasp the full extent of the social world in a controlled manner.",
     "detected_phrase": "high functioning autism",
     "similarity_score": 0.8639876842498779,
-    "Source": "2931002.2931004.txt"
-  },
-  {
-    "sentence": "also observed a deficit among autistic individuals in the identification of fear, and in general in tasks involving recognition of very simple or basic emotions.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.8677562475204468,
     "Source": "2931002.2931004.txt"
   },
   {
@@ -502,6 +994,24 @@
     "detected_phrase": "low functioning autism",
     "similarity_score": 0.8779984712600708,
     "Source": "2940299.2940313.txt"
+  },
+  {
+    "sentence": "49.Wass S.V., Porayska-Pomsta K. (2014) The uses of cognitive training technologies in the treatment of autism spectrum disorders Autism, 18(8), 50.Whyte E.M., Smyth J.M., Scherf K.S.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9370419979095459,
+    "Source": "2940299.2940313.txt"
+  },
+  {
+    "sentence": "The uses of cognitive training technologies in the treatment of autism spectrum disorders.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9032263159751892,
+    "Source": "2957265.2961866.txt"
+  },
+  {
+    "sentence": "With this in mind, we sought to understand the DIY culture surrounding and imbued in a virtual world that has been appropriated as a safe space, a social skills intervention, and, as we explore here, an assistive technology.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.957604169845581,
+    "Source": "2982142.2982172.txt"
   },
   {
     "sentence": "Emotion regulation and internalizing symptoms in children with autism spectrum disorders.",
@@ -523,8 +1033,8 @@
   },
   {
     "sentence": "The design and evaluation of such technologies typically focuses on the perceived deficits of individuals diagnosed with autism.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9074509739875793,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8971031904220581,
     "Source": "3025453.3025785.txt"
   },
   {
@@ -532,6 +1042,12 @@
     "detected_phrase": "low functioning autism",
     "similarity_score": 0.8501685857772827,
     "Source": "3025453.3025785.txt"
+  },
+  {
+    "sentence": "Our work is built on clinical literature, our experience over many years of developing social skills interventions for people with autism, our parallel design study, an experiment with an effective functional prototype and parent interviews that show the potential utility of such a system.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9229671359062195,
+    "Source": "3025453.3026014.txt"
   },
   {
     "sentence": "The most obvious signs of autism and symptoms of autism tend to emerge between 2 and 3 years of age.",
@@ -546,6 +1062,84 @@
     "Source": "3038912.3052661.txt"
   },
   {
+    "sentence": "Chelation treatment for autism spectrum disorders: A systematic review.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8965578079223633,
+    "Source": "3038912.3052661.txt"
+  },
+  {
+    "sentence": "Virtual reality as treatment tool for children with autism.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8531942963600159,
+    "Source": "3046786.txt"
+  },
+  {
+    "sentence": "This is particularly of interest for children with autism who may have a difficult time changing their focus or become very attached to a particular project.",
+    "detected_phrase": "special interests for autism",
+    "similarity_score": 0.8549633622169495,
+    "Source": "3078072.3079749.txt"
+  },
+  {
+    "sentence": "# Process Measures of Dyadic Collaborative Interaction for Social Skills Intervention in Individuals with Autism Spectrum Disorders JOSHUA WADE, Department of Mechanical Engineering, Vanderbilt UniversityARPAN SARKAR, Department of Computer Science, Harvard UniversityAMY SWANSON, AMY WEITLAUF, and ZACHARY WARREN, Treatment and Research Institute for Autism Spectrum Disorders, Vanderbilt UniversityNILANJAN SARKAR, Department of Mechanical Engineering, Vanderbilt University #### Abstract Technology-based social skills interventions have shown promise for people with Autism Spectrum Disorder (ASD), a neurodevelopmental disorder characterized by impairments in social interaction and communication.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8981384634971619,
+    "Source": "3107925.txt"
+  },
+  {
+    "sentence": "Wade and N. Sarkar, Department of Mechanical Engineering, Vanderbilt University, Nashville, TN 37212; emails: \\{joshua.w.wade, nilanjan.sarkar\\}@vanderbilt.edu; A. Sarkar, Department of Computer Science, Harvard University, Cambridge, MA 02138; email: arpan_sarkar@college.harvard.edu; A. Swanson, A. Weitlauf, and Z. Warren, Treatment and Research Institute for Autism Spectrum Disorders, Vanderbilt University, Nashville, TN 37203; emails: \\{amy.r.swanson; amy.s.weitlauf, zachary.e.warren\\}@vanderbilt.edu.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8570617437362671,
+    "Source": "3107925.txt"
+  },
+  {
+    "sentence": "Social skills interventions designed for these individuals have shown some promise, especially with regards to technology-based approaches, because of the natural affinity many people with ASD have for technology (Murray and Lesser 1999).",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8784470558166504,
+    "Source": "3107925.txt"
+  },
+  {
+    "sentence": "(2012) surveyed computer-based interventions for social and emotional skills in individuals with ASD and found that social skills interventions consistently yielded positive, though sometimes small, outcome effects.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9074150919914246,
+    "Source": "3107925.txt"
+  },
+  {
+    "sentence": "Recently, researchers have advocated for the use of computer-based social skills interventions that utilize inherently collaborative tasks designed to improve social outcomes for people with ASD (Battocchi et al.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8551913499832153,
+    "Source": "3107925.txt"
+  },
+  {
+    "sentence": "Despite the growing interest in this area of research and the potential it holds for individuals with ASD and their families, few of the existing collaborative, computer-based, social skills intervention systems harness the ability of their respective technologies to measure and utilize such data regarding collaboration between users either in isolation or in combination with expert rating and/or outcome measures.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8946874141693115,
+    "Source": "3107925.txt"
+  },
+  {
+    "sentence": "2010); - The system was pilot tested with two non-overlapping groups of participants arranged in dyads of ASD-TD  and TD-TD  in order to assess the system's acceptability and initially gauge its effectiveness as a social skills intervention tool in the target population This article contains the following sections: discusses the related work on technologies applied to the problem of improving social skills for people with ASD through collaborative interaction.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9271454811096191,
+    "Source": "3107925.txt"
+  },
+  {
+    "sentence": "Collaboration-centric tasks in particular are a compelling approach to social skills intervention because of the wide range of skills that can be targeted, such as turn-taking, negotiation, and planning.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9424633979797363,
+    "Source": "3107925.txt"
+  },
+  {
+    "sentence": "For instance, tabletop systems (i.e., large surface touch-sensitive devices), have been a popular approach to social skills intervention (Battocchi et al.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.949982762336731,
+    "Source": "3107925.txt"
+  },
+  {
+    "sentence": "The growth and diversity of recent collaboration-based social skills intervention systems suggests that this approach to intervention holds promise for improving outcomes for individuals with ASD.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8919632434844971,
+    "Source": "3107925.txt"
+  },
+  {
     "sentence": "Brief Report: Forecasting the Economic Burden of Autism in 2015 and 2025 in the United States.",
     "detected_phrase": "economic impacts of autism",
     "similarity_score": 0.9132169485092163,
@@ -556,6 +1150,18 @@
     "detected_phrase": "economic impacts of autism",
     "similarity_score": 0.9132169485092163,
     "Source": "3123024.3125507.txt"
+  },
+  {
+    "sentence": "Parent-driven use of wearable cameras for autism support: a field study with families.",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.8514926433563232,
+    "Source": "3130977.txt"
+  },
+  {
+    "sentence": "Our approach will be instrumental to understanding atypical gaze behavior in natural social settings, as well as improving the diagnosis, screening and treatment of Autism Spectrum Disorder.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8556457757949829,
+    "Source": "3131902.txt"
   },
   {
     "sentence": "The internet: a comfortable communication medium for people with Asperger syndrome (AS) and high functioning autism (HFA)?",
@@ -577,8 +1183,14 @@
   },
   {
     "sentence": "This work led to the development of a strengths-based model of SIAs, which proposes that 'deficits' traditionally associated with autism, such as language, body language, social communication, emotions, sensory, and fine motor skills, consistently diminished when children with autism engaged with their own special interests in education contexts.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.8892002105712891,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8701144456863403,
+    "Source": "3132525.3132553.txt"
+  },
+  {
+    "sentence": "Autism Research and Treatment (June 2014),.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.874709963798523,
     "Source": "3132525.3132553.txt"
   },
   {
@@ -589,9 +1201,21 @@
   },
   {
     "sentence": "The Autism Diagnostic Observation Schedule-Generic: A standard measure of social and communication deficits associated with the spectrum of autism.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9173305630683899,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8900821805000305,
     "Source": "3134694.txt"
+  },
+  {
+    "sentence": "The uses of cognitive training technologies in the treatment of autism spectrum disorders.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9032263159751892,
+    "Source": "3154862.3154877.txt"
+  },
+  {
+    "sentence": "Process Measures of Dyadic Collaborative Interaction for Social Skills Intervention in Individuals with Autism Spectrum Disorders.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8981384038925171,
+    "Source": "3172944.3172960.txt"
   },
   {
     "sentence": "However, depending on the level of impact (children with autism are often described as high functioning vs. low functioning) and complexity and severity of the associated challenges (speech disability, non-verbal vs. selectively non-verbal), variable intensity and content of therapy may be needed to make sufficient progress towards addressing core clinical issues.",
@@ -606,10 +1230,10 @@
     "Source": "3173574.3173676.txt"
   },
   {
-    "sentence": "Executive function deficits in autism spectrum disorders and attention-deficit/hyperactivity disorder: examining profiles across domains and ages.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.8590645790100098,
-    "Source": "3173574.3174017.txt"
+    "sentence": "Specifically, immersive virtual reality (VR) offers an option to generalize social skill interventions by concretizing nonverbal information in real-time social interactions.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.921573281288147,
+    "Source": "3173574.3173778.txt"
   },
   {
     "sentence": "A new virtual environment paradigm for high functioning autism intended to help attentional disengagement in a social context bridging the gap between relevance theory and executive dysfunction.",
@@ -622,6 +1246,24 @@
     "detected_phrase": "economic impacts of autism",
     "similarity_score": 0.8682907819747925,
     "Source": "3183654.3183657.txt"
+  },
+  {
+    "sentence": "# Design and Evaluation of a Collaborative Virtual Environment (CoMove) for Autism Spectrum Disorder Intervention LIAN ZHANG and QJANG FU, Department of Electrical Engineering \\& Computer Science, Vanderbilt UniversityAMY SWANSON, AMY WEITLAUF, and ZACHARY WARREN, Treatment and Research Institute for Autism Spectrum Disorders, Vanderbilt UniversityNILANJAN SARKAR, Department of Mechanical Engineering, Vanderbilt University #### Abstract Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder characterized in part by core deficits in social interaction and communication.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8570618629455566,
+    "Source": "3209687.txt"
+  },
+  {
+    "sentence": "Authors' addresses: L. Zhang and Q. Fu, Department of Electrical Engineering \\& Computer Science, Vanderbilt University, Nashville, TN 37212; emails: \\{lian.zhang, qiang.fuj@vanderbilt.edu; A. Swanson, A. Weitlauf, and Z. Warren, Treatment and Research Institute for Autism Spectrum Disorders, Vanderbilt University, Nashville, TN 37203; emails: \\{amy.r.swanson, amy.s.weitlauf, zachary.e.warren\\j@vanderbilt.edu; N. Sarkar, Department of Mechanical Engineering, Vanderbilt University, Nashville, TN 37212; email: nilanjan.sarkar@vanderbilt.edu.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8570618629455566,
+    "Source": "3209687.txt"
+  },
+  {
+    "sentence": "Weiss and colleagues observed that information sharing is one of the best ways to train social skills in children with ASD.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8735301494598389,
+    "Source": "3209687.txt"
   },
   {
     "sentence": "Social skills interventions for children with asperger's syndrome or high-functioning autism: A review and recommendations.",
@@ -640,6 +1282,18 @@
     "detected_phrase": "economic impacts of autism",
     "similarity_score": 0.9132169485092163,
     "Source": "3213586.3226220.txt"
+  },
+  {
+    "sentence": "# Design of a Haptic-Gripper Virtual Reality System (Hg) for Analyzing Fine Motor Behaviors in Children with Autism HUAN ZHAO, Department of Electrical Engineering and Computer Science, Vanderbilt University ZHAOBO ZHENG, Department of Mechanical Engineering, Vanderbilt University AMY SWANSON, AMY WEITLAUF, and ZACHARY WARREN,Treatment and Research Institute for Autism Spectrum Disorders, Vanderbilt UniversityNILANJAN SARKAR, Department of Mechanical Engineering, Vanderbilt University #### Abstract Fine motor skills, including grasping, manipulating, and reaching for objects, are a documented weakness for many children with Autism Spectrum Disorders (ASD).",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8570618629455566,
+    "Source": "3231938.txt"
+  },
+  {
+    "sentence": "Authors' addresses: H. Zhao, Department of Electrical Engineering and Computer Science, Vanderbilt University, Nashville, TN 37212; email: huan.zhao@vanderbilt.edu; Z. Zheng and N. Sarkar, Department of Mechanical Engineering, Vanderbilt University, Nashville, TN 37212; emails: [zhaobo.zheng, nilanjan.sarkar]@vanderbilt.edu; A. Swanson, A. Weitlauf, and Z. Warren, Treatment and Research Institute for Autism Spectrum Disorders, Vanderbilt University, Nashville, TN 37203; emails: [amy.r.swanson, amy.s.weitlauf, zachary.e.warren]@vanderbilt.edu.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8570617437362671,
+    "Source": "3231938.txt"
   },
   {
     "sentence": "It is not unusual that parents do notice developmental delays of their children, but they are often unaware of the risks of ASD, and children are therefore often not diagnosed until they enter school.",
@@ -667,20 +1321,20 @@
   },
   {
     "sentence": "A standard measure of social and communication deficits associated with the spectrum of autism.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9173306226730347,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8900822401046753,
     "Source": "3234695.3239329.txt"
+  },
+  {
+    "sentence": "Music Therapy as an effective treatment with Autism Spectrum Disorders in early childhood: A meta-analysis.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9179686307907104,
+    "Source": "3240925.3240958.txt"
   },
   {
     "sentence": "Trajectories of internalizing and externalizing symptoms among adults with autism spectrum disorders.",
     "detected_phrase": "symptoms of autism",
     "similarity_score": 0.8784041404724121,
-    "Source": "3240925.3240980.txt"
-  },
-  {
-    "sentence": "Development and Psychopathology 28, 2 (2016),.",
-    "detected_phrase": "psychopathology",
-    "similarity_score": 0.8904083967208862,
     "Source": "3240925.3240980.txt"
   },
   {
@@ -694,6 +1348,60 @@
     "detected_phrase": "high functioning autism",
     "similarity_score": 0.8944041132926941,
     "Source": "3267340.txt"
+  },
+  {
+    "sentence": "Virtual environments for social skills training: comments from two adolescents with autistic spectrum disorder.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9047406911849976,
+    "Source": "3267340.txt"
+  },
+  {
+    "sentence": "The potential of virtual reality in social skills training for people with autistic spectrum disorders.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9272171854972839,
+    "Source": "3267340.txt"
+  },
+  {
+    "sentence": "# Cultural Social Signal Interplay with an Expressive Robot Peter E. McKennap.mckenna@hw.ac.ukHeriot-Watt UniversityEdinburgh, UK Ayan Ghoshayan.ghosh@sheffield.ac.ukUniversity of SheffieldSheffield, UK Ruth Aylettr.s.aylett@hw.ac.ukHeriot-Watt UniversityEdinburgh, UK Frank Broz f.broz@hw.ac.uk Heriot-Watt University Edinburgh, UK #### Abstract Social robots are being developed as a form of social skills training for individual's with an autism spectrum condition (ASC).",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9510983228683472,
+    "Source": "3267851.3267905.txt"
+  },
+  {
+    "sentence": "These findings are discussed in the context of social skills training.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9117152690887451,
+    "Source": "3267851.3267905.txt"
+  },
+  {
+    "sentence": "This result is important in the context of creating a social skills training robot, as the final system will need to produce interpretable expressions as well as engage users positively for role playing workplace social scenarios.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9159449934959412,
+    "Source": "3267851.3267905.txt"
+  },
+  {
+    "sentence": "As such, social skills trainings for Eastern cultures will have a different strategy that match ingroup expectations.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9229187369346619,
+    "Source": "3267851.3267905.txt"
+  },
+  {
+    "sentence": "The next step is to determine if these expressive behaviours provide useful social signal training for peoples with social skill difficulties (e.g.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8758134841918945,
+    "Source": "3267851.3267905.txt"
+  },
+  {
+    "sentence": "Together, the findings highlight a number of important features concerning social signal recognition for robot-based social skills training in this domain.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9364793300628662,
+    "Source": "3267851.3267905.txt"
+  },
+  {
+    "sentence": "Our desire is to design a robot for social skills training, by modifying the social signals of the user, to recognise socially salient cues during an interaction.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9063493609428406,
+    "Source": "3267851.3267905.txt"
   },
   {
     "sentence": "# Robotic Interaction for Assistance to Autistic Children Manolo Dulva Hina,Assia Soukane ECE Paris School of EngineeringParis, France\\{manolo-dulva.hina Kaspar A six year old girl with severe autism, a child with severe autism, a 16-year old teenager with autism who is not tolerating any other children in any play or other task oriented activities\" Nao K can be classified as having high-functioning autism; cognitive abilities are equivalent of a 3 year old child and his language abilities of a 2 year old child; language abilities are equivalent to those of a 2 year old child, and his cognitive level of a 3-year old; language abilities are equivalent to those of a 1 and a Probo Participants with \"moderate autism\" and lack of initiation or appropriate social response in a given social situation; some reading prerequisites (ability to open and browse a book, previous experience with story books);ability of recognizing emotions Model 1 hasMentalState Child  Action Child blinks eyes Model 5 hasAction4 Child answer 2: \"I am\"  Number  \"years old\".",
@@ -714,6 +1422,18 @@
     "Source": "3274694.3274730.txt"
   },
   {
+    "sentence": "Video game use and problem behaviors in boys with autism spectrum disorders.",
+    "detected_phrase": "problem behavior for autism",
+    "similarity_score": 0.8636035919189453,
+    "Source": "3290605.3300518.txt"
+  },
+  {
+    "sentence": "We present the design of Mazi, a sonic Tangible User Interface (TUI) designed to encourage spontaneous and collaborative play between children with high support needs autism.",
+    "detected_phrase": "high support needs of autism",
+    "similarity_score": 0.8771328330039978,
+    "Source": "3290605.3300670.txt"
+  },
+  {
     "sentence": "The previous research on textual mining of online posts did not target a specific symptom exhibited on children with autism; meanwhile, the written language is limited to English.",
     "detected_phrase": "symptoms of autism",
     "similarity_score": 0.919121503829956,
@@ -732,6 +1452,18 @@
     "Source": "3301275.3302309.txt"
   },
   {
+    "sentence": "# Design of a Physiology-based Adaptive Virtual Reality Driving Platform for Individuals with ASD DAYI BIAN, Department of Electrical Engineering and Computer Science, Vanderbilt University JOSHUA WADE, Department of Mechanical Engineering, Vanderbilt UniversityAMY SWANSON, Treatment and Research Institute for Autism Spectrum Disorders (TRIAD), Vanderbilt UniversityAMY WEITLAUF, Department of Pediatrics, Treatment and Research Institute for Autism Spectrum Disorders (TRIAD), Vanderbilt UniversityZACHARY WARREN, Department of Pediatrics, Department of Psychiatry, Treatment and Research Institute for Autism Spectrum Disorders (TRIAD), Vanderbilt UniversityNILANJAN SARKAR, Department of Electrical Engineering and Computer Science, Department of Mechanical Engineering, Vanderbilt University #### Abstract Driving is essential for many people in developed countries to achieve independence.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8570618629455566,
+    "Source": "3301498.txt"
+  },
+  {
+    "sentence": "Wade and N. Sarkar, Department of Mechanical Engineering, Nashville, TN, 37212; emails: \\{joshua.w.wade, nilanjan.sarkar\\}@vanderbilt.edu; A. Swanson, Treatment and Research Institute for Autism Spectrum Disorders (TRIAD), Vanderbilt University, Nashville, TN, 37212; email: aamy.z.swanson@vumc.org; A. Weitlauf, Department of Pediatrics, TRIAD, Vanderbilt University, Nashville, TN, 37212; email: amy.s.weitlauf@vumc.org; Z. Warren, Department of Pediatrics, Department of Psychiatry, TRIAD, Vanderbilt University, Nashville, TN, 37212; email: zachary.e.warren@vumc.org.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8570617437362671,
+    "Source": "3301498.txt"
+  },
+  {
     "sentence": "A Meta-Analysis of Sensory Modulation Symptoms in Individuals with Autism Spectrum Disorders.",
     "detected_phrase": "symptoms of autism",
     "similarity_score": 0.9128110408782959,
@@ -744,22 +1476,28 @@
     "Source": "3311927.3323118.txt"
   },
   {
+    "sentence": "The potential of virtual reality in social skills training for people with autistic spectrum disorders.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9272171854972839,
+    "Source": "3311927.3323118.txt"
+  },
+  {
     "sentence": "Such information can play an important role in the screening process as symptoms related to autism may vary according to the environment.",
     "detected_phrase": "symptoms of autism",
-    "similarity_score": 0.9360889792442322,
+    "similarity_score": 0.9360889196395874,
     "Source": "3313831.3376164.txt"
   },
   {
     "sentence": "Our analysis depicts a clear lack of awareness and ignorance in parents, family members as well as medical professionals (\"Go out and ask GPs about Autism and its symptoms - you will get everything but not a right answer.",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.8956854939460754,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.8783234357833862,
     "Source": "3313831.3376164.txt"
   },
   {
-    "sentence": "Prevalence of autism spectrum disorder and autistic symptoms in a schoolbased cohort of children in Kolkata, India: Prevalence of ASD in India.",
-    "detected_phrase": "autistic symptoms",
-    "similarity_score": 0.8660438060760498,
-    "Source": "3313831.3376164.txt"
+    "sentence": "# Squeeze the Ball: Designing an Interactive Playground towards Aiding Social Activities of Children with Low-Function Autism Qin Wu , Chenmei Yu , Yanjun Chen , Jiayu Yao , Xi Wu , Xiaolan Peng , Teng Han*2 Chengdu University of Information Technology, Chengdu, China\\{wuqin, wuxi\\} @cuit.edu.cn, vikayu926@hotmail.com, cyj123qq@gmail.com State Key Laboratory of Computer Science and Beijing Key Lab of Human-Computer Interaction, Institute of Software, Chinese Academy of Sciences, Beijing, China\\{hanteng, xiaolan\\} @iscas.ac.cn #### Abstract Most intervention methods used for social skills training in children with autism are dedicated to high-functioning autism (HFA).",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.905336856842041,
+    "Source": "3313831.3376888.txt"
   },
   {
     "sentence": "However, extensive neurological and developmental disorders of low-functioning autism (LFA) have hampered their adoption.",
@@ -768,22 +1506,28 @@
     "Source": "3313831.3376888.txt"
   },
   {
+    "sentence": "Retrieved August 30, 2019 from http://www.liueducation.com/index.aspx?lang=EN An Overview of Social Skills Training.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9429522752761841,
+    "Source": "3313831.3376888.txt"
+  },
+  {
     "sentence": "# Characterizing Joint Attention Behavior during Real World Interactions using Automated Object and Gaze Detection Pranav VenuprasadUniversity of California San Diego La Jolla, Californiapvenupra@ucsd.eduTu N.M. NguyenMinerva Schools at the KeckGraduate Institutetu@minerva.kgj.edu Tushal DobhalUniversity of California San DiegoLa Jolla, Californiatdobhal@ucsd.eduAndrew GilmanMassey UniversityAuckland, NZA.Gilman@massey.ac.nz Anurag PaulUniversity of California San DiegoLa Jolla, Californiaa@paul@ucsd.eduPamela CosmanUniversity of California San DiegoLa Jolla, Californiapcosman@ucsd.edu ## Leanne Chukoskie University of California San Diego La Jolla, California lchukoskie@ucsd.edu ## ABSTRACT Joint attention is an essential part of the development process of children, and impairments in joint attention are considered as one of the first symptoms of autism.",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.8846607804298401,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.8818527460098267,
     "Source": "3314111.3319843.txt"
   },
   {
     "sentence": "Slowed orienting of covert visual-spatial attention in autism: Specific deficits associated with cerebellar and parietal abnormality.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9379053115844727,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.9121707677841187,
     "Source": "3314111.3319843.txt"
   },
   {
-    "sentence": "Development and Psychopathology 8, 3 (1996), 563âÂ̂̂584.",
-    "detected_phrase": "psychopathology",
-    "similarity_score": 0.8680099248886108,
-    "Source": "3314111.3319843.txt"
+    "sentence": "Augmented Reality Based Social Stories Training System for Promoting the Social Skills of Children with Autism.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8918097019195557,
+    "Source": "3319921.3319945.txt"
   },
   {
     "sentence": "Predictors of outcome among high functioning children with autism and Asperger syndrome.",
@@ -793,26 +1537,20 @@
   },
   {
     "sentence": "The ASD parents use the platform to (1) make sense of autism, its diagnosis and symptoms, including the reflection on how and when the definition connects to the everyday (2) to encourage parental determination and (3) to manage autism collectively.",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.9001617431640625,
-    "Source": "3322276.3322344.txt"
-  },
-  {
-    "sentence": "These posts included discussions on what the autism diagnosis mean, how would they be able to spot autistic symptoms, how they would be sure that the diagnosis that they received is an accurate one or whether they need extra opinion, whether they should get a medical report, what the meaning of diagnostic percentages in medical reports is.",
-    "detected_phrase": "autistic symptoms",
-    "similarity_score": 0.8906729221343994,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.8862407207489014,
     "Source": "3322276.3322344.txt"
   },
   {
     "sentence": "But the psychologists at the school said that although my daughter may show some autistic symptoms and has 'hints of autism', she is not an autistic and we can overcome those symptoms with education.",
-    "detected_phrase": "autistic symptoms",
-    "similarity_score": 0.8950169682502747,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.877134382724762,
     "Source": "3322276.3322344.txt"
   },
   {
     "sentence": "It is like cure for autism and all the symptoms, including eating problems.",
     "detected_phrase": "cure autism",
-    "similarity_score": 0.90158611536026,
+    "similarity_score": 0.9015861749649048,
     "Source": "3322276.3322344.txt"
   },
   {
@@ -822,21 +1560,9 @@
     "Source": "3322276.3322344.txt"
   },
   {
-    "sentence": "Those solutions for \"all the symptoms\" or \"all autistic individuals\" are the reflections of the generalizing nature of the medical discourse.",
-    "detected_phrase": "autistic symptoms",
-    "similarity_score": 0.9115924835205078,
-    "Source": "3322276.3322344.txt"
-  },
-  {
-    "sentence": "Three main themes and four sub-themes that emerged from the data are: \"making sense of autism\" which includes diagnosis and symptoms and reflections on autism, \"encouraging parental determination\" includes making attempts to build communities of practice and finally \"managing autism collectively\" includes seeking change.",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.8644134998321533,
-    "Source": "3322276.3322344.txt"
-  },
-  {
     "sentence": "Autism spectrum disorder symptoms in children with ADHD: a communitybased study.",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.855482816696167,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.8534254431724548,
     "Source": "3325693.3325703.txt"
   },
   {
@@ -848,7 +1574,19 @@
   {
     "sentence": ": From this point on, \"ASD\" will refer to the high-functioning end of the autism spectrum, unless otherwise specified.",
     "detected_phrase": "high functioning autism",
-    "similarity_score": 0.8952074646949768,
+    "similarity_score": 0.8952076435089111,
+    "Source": "3329189.3329209.txt"
+  },
+  {
+    "sentence": "- We inform the design of self-tracking processes and tools specialized for adolescents with ASD by outlining two directions: 1) motivating them to perform self-management through open-ended, personalized goal-setting using a selftracking tool that can be customizable; and 2) incorporating self-tracking processes into existing clinical programs for social skills interventions as well as promoting the mental wellbeing of individuals with ASD.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8979493975639343,
+    "Source": "3329189.3329209.txt"
+  },
+  {
+    "sentence": "Our clinical experts responded that a self-tracking tool could empower individuals to enhance their executive and social skills by practicing what they learned.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8514294624328613,
     "Source": "3329189.3329209.txt"
   },
   {
@@ -858,10 +1596,22 @@
     "Source": "3329189.3329237.txt"
   },
   {
+    "sentence": "What Are the Treatments for Autism?",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9233065843582153,
+    "Source": "3335595.3335639.txt"
+  },
+  {
     "sentence": "Social and pragmatic deficits in autism: cognitive or affective?",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.8930292129516602,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8601454496383667,
     "Source": "3337682.3337692.txt"
+  },
+  {
+    "sentence": "Video game use and problem behaviors in boys with autism spectrum disorders.",
+    "detected_phrase": "problem behavior for autism",
+    "similarity_score": 0.8636035919189453,
+    "Source": "3337722.3337766.txt"
   },
   {
     "sentence": "The Symptoms of Autism Spectrum Disorders in Adolescence and Adulthood.",
@@ -876,9 +1626,27 @@
     "Source": "3342285.txt"
   },
   {
+    "sentence": "Evaluating the effectiveness of video instruction on social and communication skills training for children with autism spectrum disorders: A review of the literature.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8536238074302673,
+    "Source": "3342285.txt"
+  },
+  {
+    "sentence": "Accessing peer social interaction: Using authorable virtual peer technology as a component of a group social skills intervention program.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8735777139663696,
+    "Source": "3342285.txt"
+  },
+  {
+    "sentence": "Reports on autism from Drexel university provide new insights (parents' and young adults' perspectives on transition outcomes for young adults with autism).",
+    "detected_phrase": "best outcome for autism",
+    "similarity_score": 0.8581771850585938,
+    "Source": "3344051.3344064.txt"
+  },
+  {
     "sentence": "Further, our discussion of these purposes shows how the technologies embody normative expectations of a neurotypical society, which predominantly views autism as a medical deficit in need of 'correction'.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9030000567436218,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8958410620689392,
     "Source": "3344919.txt"
   },
   {
@@ -888,9 +1656,39 @@
     "Source": "3349801.3349826.txt"
   },
   {
+    "sentence": "Technology-Facilitated Diagnosis and Treatment of Individuals with Autism Spectrum Disorder: An Engineering Perspective.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8680247068405151,
+    "Source": "3349801.3349826.txt"
+  },
+  {
+    "sentence": "Feedback of the general public's acceptance of the robotic head during the High-tech Fair, was combined with the special needs in treatment of autism, to optimize the design of a second generation of the robotic head.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9189134836196899,
+    "Source": "3351917.3351992.txt"
+  },
+  {
+    "sentence": "## KEYWORDS Emotionally interactive robots; head design of robots; robots with facial expressions; social robots; treatment of autism ## 1 INTRODUCTION The research of humanoid robots with facial expressions began in the 1990s, which aimed to develop robots to provide emotional interaction with human.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8528788089752197,
+    "Source": "3351917.3351992.txt"
+  },
+  {
+    "sentence": "LeGoff, D. B., Sherman, M.: Long-term outcome of social skills intervention based on interactive LEGO® play.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8938742280006409,
+    "Source": "3357777.3357795.txt"
+  },
+  {
+    "sentence": "Owens, G., Granader, Y., Humphrey, A., Baron-Cohen, S.: LEGO® therapy and the social use of language programme: An evaluation of two social skills interventions for children with high functioning autism and Asperger syndrome.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9045261144638062,
+    "Source": "3357777.3357795.txt"
+  },
+  {
     "sentence": "Comparison of self-and otherreport of symptoms of autism and comorbid psychopathology in adults with autism spectrum disorder.",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.8713963627815247,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.8713362216949463,
     "Source": "3359997.3365696.txt"
   },
   {
@@ -900,15 +1698,33 @@
     "Source": "3369114.3369122.txt"
   },
   {
+    "sentence": "Granpeesheh, D., Tarbox, J., Najdowski, A. C. and Kornack, J. Evidence-based treatment for children with autism: the CARD model.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8886816501617432,
+    "Source": "3369199.3369212.txt"
+  },
+  {
     "sentence": "Salience network-based classification and prediction of symptom severity in children with autism.",
     "detected_phrase": "symptoms of autism",
     "similarity_score": 0.8868534564971924,
     "Source": "3371300.3383340.txt"
   },
   {
+    "sentence": "Disability and Rehabilitation: Assistive Technology, 2019: p.. Heyvaert, M., et al., Efficacy of behavioral interventions for reducing problem behavior in persons with autism: An updated quantitative synthesis of singlesubject research.",
+    "detected_phrase": "problem behavior for autism",
+    "similarity_score": 0.9366501569747925,
+    "Source": "3374920.3374951.txt"
+  },
+  {
     "sentence": "The rising prevalence of autism is probably due to the rising numbers of individuals with high functioning autism, who are most able to go to university.",
     "detected_phrase": "high functioning autism",
     "similarity_score": 0.8878105878829956,
+    "Source": "3375258.3375261.txt"
+  },
+  {
+    "sentence": "Students with a form of autism often need support to achieve success at universities, while they do not lack intellectual capacities.",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.9014031291007996,
     "Source": "3375258.3375261.txt"
   },
   {
@@ -924,15 +1740,75 @@
     "Source": "3375258.3375261.txt"
   },
   {
+    "sentence": "INTRODUCTION Robot-based interventions for autistic children are seen as a potential approach to provide engaging, on demand, social skill training.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.881312370300293,
+    "Source": "3378680.3378878.txt"
+  },
+  {
+    "sentence": "Standardizing ADOS scores for a measure of severity in autism spectrum disorders.",
+    "detected_phrase": "high severity of autism",
+    "similarity_score": 0.8870398998260498,
+    "Source": "3379299.3379302.txt"
+  },
+  {
+    "sentence": "A computer-mediated online social skills intervention has the potential to enable individuals with ASD to practice conversation frequently with a standardized and repeatable stimulus.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9330834150314331,
+    "Source": "3383652.3423900.txt"
+  },
+  {
+    "sentence": "These works prove the applicability of interactive technologies in social skills training for individuals with ASD.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9146096706390381,
+    "Source": "3383652.3423900.txt"
+  },
+  {
+    "sentence": "developed a social skills training system for children with ASD.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9070483446121216,
+    "Source": "3383652.3423900.txt"
+  },
+  {
+    "sentence": "Taken together, prior studies in computer-based social skills training and dialogue management suggest that dialogue-based systems hold considerable promise for helping individuals with ASD (or certain others with special needs).",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8571603298187256,
+    "Source": "3383652.3423900.txt"
+  },
+  {
+    "sentence": "For example, a participant said, \"In its current state yes I might mess around with it some but I don't believe I would use it as an actual social skills training and jump into actual conversations just yet.\"",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9141333699226379,
+    "Source": "3383652.3423900.txt"
+  },
+  {
+    "sentence": "The efficacy of positive feedback and acknowledgment has been observed in past research  and our experience further confirms the desirability of positive acknowledgments for interventions aimed at social skills development.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.871166467666626,
+    "Source": "3383652.3423900.txt"
+  },
+  {
+    "sentence": "Embodied conversational agents for multimodal automated social skills training in people with autism spectrum disorders.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8747975826263428,
+    "Source": "3383652.3423900.txt"
+  },
+  {
     "sentence": "S. Yoshimura, W. Sato, S. Uono, and M. Toichi, \"Impaired overt facial mimicry in response to dynamic facial expressions in high-functioning autism spectrum disorders,\" Journal of autism and developmental disorders, vol.",
     "detected_phrase": "high functioning autism",
     "similarity_score": 0.8723131418228149,
     "Source": "3383923.3383954.txt"
   },
   {
+    "sentence": "In this work we are interested in the needs of people with Autism in order to support them in the exploration of a geographic area.",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.8571001291275024,
+    "Source": "3386392.3399280.txt"
+  },
+  {
     "sentence": "The Autism Diagnostic Observation Schedule-Generic: A Standard Measure of Social and Communication Deficits Associated with the Spectrum of Autism.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9173305630683899,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8900821805000305,
     "Source": "3388176.3388192.txt"
   },
   {
@@ -943,8 +1819,8 @@
   },
   {
     "sentence": "The autism diagnostic observation schedule-generic: A standard measure of social and communication deficits associated with the spectrum of autism.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9173305630683899,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8900821805000305,
     "Source": "3389189.3393738.txt"
   },
   {
@@ -984,10 +1860,64 @@
     "Source": "3395035.3425188.txt"
   },
   {
+    "sentence": "Measuring changes in social behavior during a social skills intervention for higherfunctioning children and adolescents with autism spectrum disorder.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8963481783866882,
+    "Source": "3395035.3425188.txt"
+  },
+  {
+    "sentence": "LEGOv: therapy and the social use of language programme: An evaluation of two social skills interventions for children with high functioning autism and Asperger syndrome.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9045261144638062,
+    "Source": "3395035.3425188.txt"
+  },
+  {
     "sentence": "https://doi.org/10.1145/3408877.3432516 ## 1 INTRODUCTION Autism spectrum disorder (ASD) is a life-long neuro-developmental condition that has a significant impact on an autistic person's daily life.",
     "detected_phrase": "the autistic person",
     "similarity_score": 0.85577392578125,
     "Source": "3408877.3432516.txt"
+  },
+  {
+    "sentence": "A Nexus Model of Restricted Interests in Autism Spectrum Disorder.",
+    "detected_phrase": "restricted interests for autism",
+    "similarity_score": 0.9303838014602661,
+    "Source": "3411764.3445116.txt"
+  },
+  {
+    "sentence": "Issues related to the diagnosis and treatment of autism spectrum disorders.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8942590951919556,
+    "Source": "3429290.3429306.txt"
+  },
+  {
+    "sentence": "Among this literature, social skills are trained either on distal communication tasks via robots or virtual agent or on fine collaborative tasks via tangibles or tabletops, however, with no project on the embedded training of social skills into pragmatic motor actions.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8609939813613892,
+    "Source": "3430524.3440646.txt"
+  },
+  {
+    "sentence": "The controlled expressivity and interactivity of embodied agents, whether being virtual agents or robots, enable researchers to develop adapted applications to the training of specific social skills.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9309692978858948,
+    "Source": "3430524.3440646.txt"
+  },
+  {
+    "sentence": "Grounding the training of social skills into concrete physical actions can provide a more direct way to reach collaboration with others.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9215167760848999,
+    "Source": "3430524.3440646.txt"
+  },
+  {
+    "sentence": "Long-term outcome of social skills intervention based on interactive LEGO@play.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8938742876052856,
+    "Source": "3430524.3440646.txt"
+  },
+  {
+    "sentence": "Process Measures of Dyadic Collaborative Interaction for Social Skills Intervention in Individuals with Autism Spectrum Disorders.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8981384038925171,
+    "Source": "3430524.3440646.txt"
   },
   {
     "sentence": "Facing the challenge of teaching emotions to individuals with low- and high-functioning autism using a new Serious game: a pilot study.",
@@ -996,15 +1926,21 @@
     "Source": "3430524.3440646.txt"
   },
   {
-    "sentence": "Defining the social deficits of autism: The contribution of non- verbal communication measures.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.959997832775116,
+    "sentence": "Applied Behavior Analysis as Treatment for Autism Spectrum Disorder.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9002432227134705,
     "Source": "3439231.3439270.txt"
   },
   {
-    "sentence": "Restricted Interest.",
-    "detected_phrase": "restricted interests",
-    "similarity_score": 0.9486529231071472,
+    "sentence": "Defining the social deficits of autism: The contribution of non- verbal communication measures.",
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.93384850025177,
+    "Source": "3439231.3439270.txt"
+  },
+  {
+    "sentence": "The Survey of Favorite Interests and Activities: Assessing and understanding restricted interests in children with autism spectrum disorder.",
+    "detected_phrase": "restricted interests for autism",
+    "similarity_score": 0.9175382852554321,
     "Source": "3439231.3439270.txt"
   },
   {
@@ -1015,8 +1951,14 @@
   },
   {
     "sentence": "According to the World Health Organization, symptoms of autism surface at the early stages of one's life, and mostly continue for the rest of life.",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.8905003666877747,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.887739360332489,
+    "Source": "3449134.txt"
+  },
+  {
+    "sentence": "As a result, like many other developing nations, countless cases of ASD go unreported here, which subsequently hinders the process that enables stakeholders to provide better support for individuals with autism.",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.8584004640579224,
     "Source": "3449134.txt"
   },
   {
@@ -1032,16 +1974,124 @@
     "Source": "3449151.txt"
   },
   {
+    "sentence": "The developments of communication techniques and artificial intelligence (AI) have provided new potential methods for the treatment of autism.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9278392195701599,
+    "Source": "3450630.txt"
+  },
+  {
+    "sentence": "The different needs of autistic children result in different types of therapy for autistic children.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8546024560928345,
+    "Source": "3452144.3452201.txt"
+  },
+  {
     "sentence": "Extensive experiments are conducted and experimental results show that the proposed model has an accuracy of 0.89 in identifying key influence factors of autism symptoms, which significantly outperformances the other state-of-the-art baseline models.",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.8570481538772583,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.850603461265564,
     "Source": "3453800.3453832.txt"
   },
   {
-    "sentence": "A theoretical approach to the deficits in infantile autism.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.8548879623413086,
-    "Source": "3461615.3485426.txt"
+    "sentence": "# C-Hg: A Collaborative Haptic-Gripper Fine Motor Skill Training System for Children with Autism Spectrum Disorder HUAN ZHAO and ASHWAQ ZAINI AMAT, Department of Electrical Engineering and Computer Science, Vanderbilt University, Nashville, TNMIROSLAVA MIGOVICH, Department of Mechanical Engineering, Vanderbilt University, Nashville, TNAMY SWANSON, AMY S. WEITLAUF, and ZACHARY WARREN, Treatment and Research Institute for Autism Spectrum Disorders, Vanderbilt University Medical Center, Nashville, TNNILANJAN SARKAR, Department of Mechanical Engineering, Vanderbilt University, Nashville, TN Computer-assisted systems can provide efficient and engaging ASD intervention environments for children with Autism Spectrum Disorder (ASD).",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8570618629455566,
+    "Source": "3459608.txt"
+  },
+  {
+    "sentence": "Z. Amat, Department of Electrical Engineering and Computer Science, Vanderbilt University, 2201 West End Ave, Nashville, TN 37235; emails: [huan.zhao, ashwaq.zaini.amat.haji.anwar]@vanderbilt.edu; M. Migovich and N. Sarkar, Department of Mechanical Engineering, Vanderbilt University, 2201 West End Ave, Nashville, TN 37235; emails: [miroslava.migovich, nilanjan.sarkar]@vanderbilt.edu; A. Swanson, A. S. Weitlauf, and Z. Warren, Treatment and Research Institute for Autism Spectrum Disorders, Vanderbilt University Medical Center, 1211 Medical Center Dr, Nashville, TN 37232, emails: [amy.r.swanson, amy.s.weitlauf, zachary.e.warren]@vumc.org.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8570618629455566,
+    "Source": "3459608.txt"
+  },
+  {
+    "sentence": "## KEYWORDS Socially Assistive Robotics, Autism, Social Skills Training, Case Studies ## ACM Reference Format: Saad Elbeleidy, Daniel Rosen, Dan Liu, Aubrey Shick, and Tom Williams.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8725718259811401,
+    "Source": "3459990.3460715.txt"
+  },
+  {
+    "sentence": "# Jammo Virtual Robot Enhances the Social Skills of Children With HFA: Development and Deployment Maha AbdelmohsenYasmine Arafam.h.abdelmohsen@greenwich.ac.uky.arafa@greenwich.ac.ukUniversity of GreenwichLondon, UK #### Abstract This study investigates the impact of combining virtual environment with a social VRobot as a novel approach to train the social skills of children with high-functioning autism (HFA).",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.89207923412323,
+    "Source": "3462203.3475928.txt"
+  },
+  {
+    "sentence": "A 3D social virtual robot is used in a non-immersive (desktop) virtual environment to enhance the social skills of children with HFA through a social skills training program guided by a parent or a teacher.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9235851764678955,
+    "Source": "3462203.3475928.txt"
+  },
+  {
+    "sentence": "The training program targets three social skills: imitation, emotion recognition, and expression, and intransitive gestures skills.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.871265709400177,
+    "Source": "3462203.3475928.txt"
+  },
+  {
+    "sentence": "Social skills training (SST) interventions are a widely used approach for teaching and training social skills to children with ASD.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8632200956344604,
+    "Source": "3462203.3475928.txt"
+  },
+  {
+    "sentence": "Social skills training interventions such as peer mentoring, social skills group, social stories, video-modelling, picture exchange communication system, applied behaviour analysis, and occupational therapy were early promising solutions for enhancing the social skills of children with ASD.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8706067800521851,
+    "Source": "3462203.3475928.txt"
+  },
+  {
+    "sentence": "The findings show improvement in the target social skills from baseline to the intervention phase.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9236785769462585,
+    "Source": "3462203.3475928.txt"
+  },
+  {
+    "sentence": "Although the promising results for using virtual environments and social robots for training and enhancing the social skills of children with ASD, some limitations were observed in the literature review.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8959000110626221,
+    "Source": "3462203.3475928.txt"
+  },
+  {
+    "sentence": "The social skill training programme is adapted and modified from several studies  that utilised physical robots (NAO, QTrobot and Zeno) for training children with ASD.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8877860307693481,
+    "Source": "3462203.3475928.txt"
+  },
+  {
+    "sentence": "The designed social skill training programme targets three social skills: imitation, emotion recognition and expression, and intransitive gesture.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8741796016693115,
+    "Source": "3462203.3475928.txt"
+  },
+  {
+    "sentence": "describes the social skill training programme used.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9011834859848022,
+    "Source": "3462203.3475928.txt"
+  },
+  {
+    "sentence": "The social skill training programme consists of 24 sessions.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8866196274757385,
+    "Source": "3462203.3475928.txt"
+  },
+  {
+    "sentence": "The virtual desktop environment is a cost-effective tool that utilises a virtual robot to interact with the participants through a social skill training programme.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8772158622741699,
+    "Source": "3462203.3475928.txt"
+  },
+  {
+    "sentence": "Using such a tool at home or school may improve the learning as it provides an additional resource of training the social skills.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9231315851211548,
+    "Source": "3462203.3475928.txt"
+  },
+  {
+    "sentence": "Based on the results obtained in this study, we observed that the proposed desktop virtual environment was an effective tool in training and improving the target social skills of the participants.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8867926597595215,
+    "Source": "3462203.3475928.txt"
   },
   {
     "sentence": "Social skills interventions for children with Asperger's syndrome or high-functioning autism: A review and recommendations.",
@@ -1056,9 +2106,21 @@
     "Source": "3462244.3479882.txt"
   },
   {
-    "sentence": "Disrupted prediction errors index social deficits in autism spectrum disorder.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.8612380027770996,
+    "sentence": "Given that, social skill training is one of the most important projects for training autistic children, and it is necessary to train autistic children's social skills.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9571467041969299,
+    "Source": "3468691.3468712.txt"
+  },
+  {
+    "sentence": "The effectiveness of robot-assisted interventions designed for social skill learning presumably depends on the interplay between robot predictability, engagement in learning, and the individual differences between different autistic children.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8611997365951538,
+    "Source": "3468849.txt"
+  },
+  {
+    "sentence": "The effectiveness of robot-assisted interventions designed for social skill learning presumably depends-in part-on the interplay between robot predictability, engagement in learning, and the individual differences between different autistic children.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8611997961997986,
     "Source": "3468849.txt"
   },
   {
@@ -1066,6 +2128,12 @@
     "detected_phrase": "high functioning autism",
     "similarity_score": 0.8666094541549683,
     "Source": "3469859.txt"
+  },
+  {
+    "sentence": "McMahon CM, Vismara LA, Solomon M (2013) Measuring changes in social behavior during a social skills intervention for higher-functioning children and adolescents with autism spectrum disorder.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.896348237991333,
+    "Source": "3471391.3471419.txt"
   },
   {
     "sentence": "# Requirements Elicitation in the Context of Software for Low-Functioning Autistic People: An Initial Proposal of Specific Supporting Artifacts Àurea Hiléia da Silva Meloasmelo@uea.edu.brUniversidade Estadual do AmazonasManaus-Amazonas, BrazilLuis Riveroluisrivero@nca.ufma.brPPGCC/UFMASão Luis-Maranhão, Brazil Jonathan Silva dos Santosjonathas.silvasantos@gmail.comMéliuzManaus-Amazonas, Brazil Ana Carolina OranRaimundo da Silva Barretoana.oran@icomp.ufam.edu.brrbarreto@icomp.ufam.edu.brUniversidade Federal do AmazonasManaus-Amazonas, Brazil #### Abstract Requirements engineering is a crucial stage for the success of any software, as it allows a better understanding of the needs and desires of the customers or future users.",
@@ -1080,10 +2148,52 @@
     "Source": "3474624.3477065.txt"
   },
   {
+    "sentence": "# CheerBrush: A Novel Interactive Augmented Reality Coaching System for Toothbrushing Skills in Children with Autism Spectrum Disorder Z. KEVIN ZHENG, Mechanical Engineering Department, Vanderbilt University, Nashville, TN, USANANDAN SARKAR, University School of Nashville, Nashville, TN, USAAMY SWANSON, Treatment and Research Institute for Autism Spectrum Disorders, VanderbiltUniversity Medical Center, Nashville, TN, USAAMY WEITLAUF and ZACHARY WARREN, Department of Pediatrics, Vanderbilt UniversityMedical Center, Nashville, TN, USANILANJAN SARKAR, Mechanical Engineering Department, Vanderbilt University, Nashville, TN, USA #### Abstract Autism Spectrum Disorder (ASD) is a common neurodevelopmental disorder that impacts one in every 54 children in the United States.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8570618629455566,
+    "Source": "3481642.txt"
+  },
+  {
+    "sentence": "Authors' addresses: Z. K. Zheng, Mechanical Engineering Department, Vanderbilt University, 2400 Highland Ave, Nashville, TN 37212, USA; email: zhaobo.zheng@vanderbilt.edu; N. Sarkar, Mechanical Engineering Department, Vanderbilt University, 2400 Highland Ave, Nashville, TN 37212, USA and University School of Nashville, 2000 Edgehill Ave, Nashville, TN 37212, USA; A. Swanson, Treatment and Research Institute for Autism Spectrum Disorders, Vanderbilt University Medical Center, 110 Magnolia Circle, Nashville, TN 37203, USA; A. Weitlauf and Z. Warren, Department of Pediatrics, Vanderbilt University Medical Center, 2200 Children.s Way, Nashville, TN 37232, USA.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8570618629455566,
+    "Source": "3481642.txt"
+  },
+  {
     "sentence": "Parent reports of sensory symptoms in toddlers with Autism and those with other Developmental Disorders.",
     "detected_phrase": "symptoms of autism",
     "similarity_score": 0.8606239557266235,
     "Source": "3485768.3485782.txt"
+  },
+  {
+    "sentence": "Rapid progress in technology, especially in the area of robotics, offers tremendous possibilities for innovation in treatment for individuals with Autism Spectrum Disorders (ASD).",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.873104453086853,
+    "Source": "3486812.3486840.txt"
+  },
+  {
+    "sentence": "# INC-Hg: An Intelligent Collaborative Haptic-Gripper Virtual Reality System HUAN ZHAO and ASHWAQ ZAINI AMAT, Department of Electrical Engineering and ComputerScience, Vanderbilt University, Nashville, TennesseeMIROSLAVA MIGOVICH, Department of Mechanical Engineering, Vanderbilt University, Nashville, TennesseeAMY SWANSON, AMY S. WEITLAUF, and ZACHARY WARREN, Treatment and Research Institute for Autism Spectrum Disorders, Vanderbilt University, Nashville, TennesseeNILANJAN SARKAR, Department of Mechanical Engineering, Vanderbilt University, Nashville, Tennessee Collaborative Virtual Environments (CVE) have shown potential to be an effective social skill training platform for children with Autism Spectrum Disorders (ASD) to learn and practice collaborative and communication skills through peer interactions.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.917616605758667,
+    "Source": "3487606.txt"
+  },
+  {
+    "sentence": "The potential of virtual reality in social skills training for people with autistic spectrum disorders.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9272171854972839,
+    "Source": "3487606.txt"
+  },
+  {
+    "sentence": "Embodied conversational agents for multimodal automated social skills training in people with autism spectrum disorders.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8747975826263428,
+    "Source": "3487606.txt"
+  },
+  {
+    "sentence": "To answer these research questions, we partnered with two community organizations that offer day programs for Autistic adults to develop social skills and for job training and preparation.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8546550869941711,
+    "Source": "3491102.3517596.txt"
   },
   {
     "sentence": "While some people find functional or binary labels (e.g., low or high-functioning Autism) useful, others find them harmful and ableist.",
@@ -1092,9 +2202,9 @@
     "Source": "3491102.3517596.txt"
   },
   {
-    "sentence": "Further, a critique of some of this literature is that many studies use deficit-based framing that focuses on the deficits of the Autistic individual, rather than their differences or strengths.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.8770685791969299,
+    "sentence": "Social media and autism support: Investigation on autism support groups on Facebook.",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.861495316028595,
     "Source": "3491102.3517596.txt"
   },
   {
@@ -1102,6 +2212,30 @@
     "detected_phrase": "symptoms of autism",
     "similarity_score": 0.8638789653778076,
     "Source": "3491102.3517788.txt"
+  },
+  {
+    "sentence": "# Career Interview Readiness in Virtual Reality (CIRVR): A Platform for Simulated Interview Training for Autistic Individuals and Their Employers DEEKSHA ADIANI, Department of Electrical Engineering and Computer Science, Vanderbilt University, USA AARON ITZKOVITZ, Robotics and Autonomous Systems Lab, Vanderbilt University, USA DAYI BIAN, Department of Electrical Engineering and Computer Science, Vanderbilt University, USA HARRISON KATZ, MICHAEL BREEN, and SPENCER HUNT, Robotics and Autonomous Systems Lab, Vanderbilt University, USA AMY SWANSON, Treatment and Research Institute for Autism Spectrum Disorders (TRIAD), Vanderbilt University Medical Center, USA TIMOTHY J. VOGUS, Owen Graduate School of Management, Vanderbilt University, USA JOSHUA WADE and NILANJAN SARKAR, Department of Mechanical Engineering, Vanderbilt University, USA #### Abstract Employment outcomes for autistic  individuals are often poorer relative to their neurotypical (NT) peers, resulting in a greater need for other forms of financial and social support.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8570617437362671,
+    "Source": "3505560.txt"
+  },
+  {
+    "sentence": "Authors' addresses: D. Adiani, Department of Computer Science, Vanderbilt University, 400 24th Ave S, Nashville, TN 37212, USA; email: deeksha.m.adiani@vanderbilt.edu; D. Bian, Department of Electrical and Computer Engineering, Vanderbilt University, 400 24th Ave S, Nashville, TN 37212, USA; email: biandayi@gmail.com; A. Itzkovitz, H. Katz, M. Breen, and S. Hunt, Robotics and Autonomous Systems Lab, Vanderbilt University, 2400 Highland Avenue, Nashville, TN 37212, USA; emails: itzkovitza@gmail.com, harrisonmkatz@gmail.com, [michael.breen, spencer.hunt]@vanderbilt.edu; A. Swanson, Treatment and Research Institute for Autism Spectrum Disorders (TRIAD), Vanderbilt University Medical Center, 110 Magnolia Cir, Nashville, TN 37203, USA; T. J. Vogus, Owen Graduate School of Management, Vanderbilt University, 401 21st Ave S, Nashville, TN 37203, USA; J.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8570617437362671,
+    "Source": "3505560.txt"
+  },
+  {
+    "sentence": "Effects of an employer-based intervention on employment outcomes for youth with significant support needs due to autism.",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.9000619649887085,
+    "Source": "3505560.txt"
+  },
+  {
+    "sentence": "N. Eissa, M. Al-Houqani, A. Sadeq, S. K. Ojha, A. Sasse, and B. Sadek, \"Current enlightenment about etiology and pharmacological treatment of autism spectrum disorder,\" Front.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.917878270149231,
+    "Source": "3505711.3505740.txt"
   },
   {
     "sentence": "Documentation of challenging behaviors is fundamental for identifying what environmental factors influence them, such as how others respond to a child's such behaviors.",
@@ -1184,7 +2318,7 @@
   {
     "sentence": "The caregivers became not only more aware of their child's challenging behaviors but also more reflective of their response strategies.",
     "detected_phrase": "challenging behavior",
-    "similarity_score": 0.8866668939590454,
+    "similarity_score": 0.8866665959358215,
     "Source": "3512939.txt"
   },
   {
@@ -1260,6 +2394,12 @@
     "Source": "3512939.txt"
   },
   {
+    "sentence": "Parenting interventions for children with autism spectrum and disruptive behavior disorders: Opportunities for cross-fertilization.",
+    "detected_phrase": "disruptive behavior for autism",
+    "similarity_score": 0.8971441388130188,
+    "Source": "3512939.txt"
+  },
+  {
     "sentence": "The form and function of challenging behaviours.",
     "detected_phrase": "challenging behavior",
     "similarity_score": 0.8609386682510376,
@@ -1272,28 +2412,46 @@
     "Source": "3516875.3516904.txt"
   },
   {
-    "sentence": "Teachers often find it difficult to screen (early diagnosis) related to developmental symptoms of autistic children.",
-    "detected_phrase": "autistic symptoms",
-    "similarity_score": 0.8646987676620483,
-    "Source": "3516875.3516976.txt"
-  },
-  {
-    "sentence": "Every child with Autism has a different level of literacy ability depending on the extent to which their autistic symptoms affect it 6.",
-    "detected_phrase": "autistic symptoms",
-    "similarity_score": 0.8584864139556885,
-    "Source": "3516875.3517003.txt"
+    "sentence": "According to the results of the study there are two significant factors affecting stress, namely the level or severity of autism and Parenting self efficacy or parental confidence in childcare.",
+    "detected_phrase": "high severity of autism",
+    "similarity_score": 0.8718401789665222,
+    "Source": "3516875.3516970.txt"
   },
   {
     "sentence": "Intelligence disorders are not symptoms of Autism, meaning that children with Autism may have average, above average, or below-average intelligence.",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.8733526468276978,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.8687717914581299,
     "Source": "3516875.3517003.txt"
   },
   {
-    "sentence": "In children with Autism, seven factors affect their reading ability, namely whether or not autistic symptoms are dominant, age at diagnosis, language ability, child's talent, level of intelligence, emotional stability, and appropriate therapy 16.",
-    "detected_phrase": "autistic symptoms",
-    "similarity_score": 0.8635797500610352,
-    "Source": "3516875.3517003.txt"
+    "sentence": "Augmented reality based social stories training system for promoting the social skills of children with autism.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8918097019195557,
+    "Source": "3517428.3544884.txt"
+  },
+  {
+    "sentence": "Understanding differences in neurotypical and autism spectrum special interests through internet forums.",
+    "detected_phrase": "special interests for autism",
+    "similarity_score": 0.8585320711135864,
+    "Source": "3517428.3544884.txt"
+  },
+  {
+    "sentence": "In all, a robot that engages its users in social-skills training can be a valuable tool for adults with ASD.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9094709157943726,
+    "Source": "3523760.3523766.txt"
+  },
+  {
+    "sentence": "Schreibman, L. Intensive behavioral/psychoeducational treatments for autism: Research needs and future directions.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9259828329086304,
+    "Source": "3523760.3523766.txt"
+  },
+  {
+    "sentence": "They can retain simple and unnuanced social interaction and reduce a considerable amount of workload of human therapists to focus on the improvement of autism therapy -.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8678529262542725,
+    "Source": "3523760.3523770.txt"
   },
   {
     "sentence": "Similar to traditional autism therapies, generalization remains to be problematic since signs and symptoms of autism represent a heterogeneous nature, which, in turn, requires personalized therapeutic intervention.",
@@ -1302,9 +2460,33 @@
     "Source": "3523760.3523770.txt"
   },
   {
+    "sentence": "Since the severity of autism is diagnosed in varying ways, we first group children by one of the most commonly used metrics, ADOS-2 score, that distinguishes either to mild, moderate and severe autism forms or another common classification of two severity levels based mainly on cognitive and language abilities: highfunctioning autism (HFA) and low-functioning (LFA) autism.",
+    "detected_phrase": "low severity of autism",
+    "similarity_score": 0.8856493234634399,
+    "Source": "3523760.3523770.txt"
+  },
+  {
+    "sentence": "We conducted the study on the premises of the RCRC where children with their parents were hospitalized for 21 days to undergo a three-week therapy that includes traditional methods of autism therapy (i.e., art, music therapy, physiotherapy, and others).",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8616199493408203,
+    "Source": "3523760.3523770.txt"
+  },
+  {
     "sentence": "Lacking of eye contact in social communication is one of the core deficits in autism, and it seems especially challenging for young children with ASD.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9487905502319336,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.9262341856956482,
+    "Source": "3523760.3523770.txt"
+  },
+  {
+    "sentence": "Z. Telisheva, A. Turarova, A. Zhanatkyzy, G. Abylkasymova, and A. Sandygulova, \"Robot-assisted therapy for the severe form of autism: Challenges and recommendations,\" in International Conference on Social Robotics.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8984396457672119,
+    "Source": "3523760.3523770.txt"
+  },
+  {
+    "sentence": "Available: https://doi.org/10.1145/3468849 K. Gotham, A. Pickles, and C. Lord, \"Standardizing ados scores for a measure of severity in autism spectrum disorders,\" Journal of autism and developmental disorders, vol.",
+    "detected_phrase": "high severity of autism",
+    "similarity_score": 0.8870398998260498,
     "Source": "3523760.3523770.txt"
   },
   {
@@ -1312,6 +2494,30 @@
     "detected_phrase": "high functioning autism",
     "similarity_score": 0.9016515016555786,
     "Source": "3523760.3523770.txt"
+  },
+  {
+    "sentence": "M. J. Emery, \"Art therapy as an intervention for autism,\" Art therapy, vol.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8637611865997314,
+    "Source": "3523760.3523869.txt"
+  },
+  {
+    "sentence": "In Diagnosis and treatment of autism (pp.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8944221138954163,
+    "Source": "3523760.3523922.txt"
+  },
+  {
+    "sentence": "Communication intervention for children with autism: A review of treatment efficacy.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8905885815620422,
+    "Source": "3523760.3523922.txt"
+  },
+  {
+    "sentence": "Virtual collaborative gaming as social skills training for high - functioning autistic children.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9181971549987793,
+    "Source": "3523760.3523922.txt"
   },
   {
     "sentence": "## 2 PROBLEM In this study, I focus on the needs of people with High-Functioning Autism and Asperger's Syndrome, whose cognitive abilities and language skills are intact.",
@@ -1344,6 +2550,36 @@
     "Source": "3544548.3581341.txt"
   },
   {
+    "sentence": "The vrSensory project is targeting inclusion through sensory accessibility rather than intervention via training normative social skills.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8615825176239014,
+    "Source": "3544548.3581480.txt"
+  },
+  {
+    "sentence": "These reports highlight a stark disconnect between prior HCI interventions that focus on social skills and participant community desires for support in day-to-day tasks.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9339306354522705,
+    "Source": "3544548.3581480.txt"
+  },
+  {
+    "sentence": "### 2.2 HCI and Executive Dysfunction Interventions While most HCI technology research \"for\" autism tends to be related to social skills training, autistic people themselves report problems with executive function, attention, and emotional regulation, as primary concerns.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9085976481437683,
+    "Source": "3544548.3581556.txt"
+  },
+  {
+    "sentence": "Most of the HCI interventions for executive function described above differ from the majority of social skills interventions in HCI in that they provide conceptual or physical metacognitive scaffolds for tasks while also integrating the system into the existing social and material environment.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9194846749305725,
+    "Source": "3544548.3581556.txt"
+  },
+  {
+    "sentence": "In \"Perseverations of the Academy\", Autistic scholar Rua M. Williams identifies trends in autism-HCI work which focus on social skills training and the \"normaliz[ation] of autistic difference\".",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9252752065658569,
+    "Source": "3544548.3581556.txt"
+  },
+  {
     "sentence": "Knapp M, Romeo R, Beecham J, \"Economic cost of autism in the UK.",
     "detected_phrase": "economic impacts of autism",
     "similarity_score": 0.9218724370002747,
@@ -1356,6 +2592,12 @@
     "Source": "3545945.3569818.txt"
   },
   {
+    "sentence": "# Interaction Paths Between Users on the Autistic Spectrum and Technologies: Scope Review of the Brazilian Symposium IHC Jocivaldo VanzelerInformation Systems Faculty Federal University of Pará Cametá PA Brazil jocivaldo2390@gmail.comIsadora SantosFederal Rural University of AmazoniaParagominas PA Brazilisadora.mendes@ufra.edu.br Gleyciane FreitasInformation Systems FacultyFederal University of ParáCametá PA Brazilgleyci04amor@gmail.comFabricio FariasInformation Systems FacultyFederal University of ParáCametá PA Brazilfabriciosf@ufpa.br Josué FerreiraPPCAFederal University of ParáTucurui PA Braziljosuevianaf@gmail.comCarlos PortelaInformation Systems FacultyFederal University of ParáCametá PA Brazilcsp@ufpa.br #### Abstract The development of software technologies to support the treatment of Autistic Spectrum Disorder (ASD) has been intensifying, enabling the emergence of new forms of education and treatment.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8579084873199463,
+    "Source": "3554364.3559637.txt"
+  },
+  {
     "sentence": "We define a support network as the people to whom autistic individuals might reach out to discuss their work-related issues, including family, friends, and professionals (e.g., special education teachers, therapists, or work managers) .",
     "detected_phrase": "the autistic person",
     "similarity_score": 0.9088348150253296,
@@ -1365,6 +2607,18 @@
     "sentence": "The overall reflection interface () offers a chance to investigate the VR experience of the primary user (i.e., an autistic individual) with members of their support network.",
     "detected_phrase": "the autistic person",
     "similarity_score": 0.8585855960845947,
+    "Source": "3555082.txt"
+  },
+  {
+    "sentence": "We designed the contents by referencing the existing programs for social skills training (e.g., PEERS) and the workplace manual for neurodiverse people.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9147558212280273,
+    "Source": "3555082.txt"
+  },
+  {
+    "sentence": "We then asked how they might use this system to benefit autistic people, how the VR system design could better incorporate the social skill training strategies they use, and the potential benefits and challenges of using VR to understand autistic individuals.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9153828620910645,
     "Source": "3555082.txt"
   },
   {
@@ -1392,6 +2646,30 @@
     "Source": "3562939.3565608.txt"
   },
   {
+    "sentence": "In this paper, we present VISTA, a VRbased interactive social skill training system for people with ASD.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.903828501701355,
+    "Source": "3562939.3565608.txt"
+  },
+  {
+    "sentence": "Virtual and Augmented Reality in Social Skills Interventions for Individuals with Autism Spectrum Disorder: A Scoping Review.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9048869013786316,
+    "Source": "3563137.3563171.txt"
+  },
+  {
+    "sentence": "In this context, the majority of studies have adopted traditional methods for autism therapy such as Applied Behavior Analysis (ABA), Pivotal response treatment, and Social skills training.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8560689687728882,
+    "Source": "3568162.3576963.txt"
+  },
+  {
+    "sentence": "If we remove independence and normativity as required outcomes for autism technology use, possibilities for new types of designs emerge.",
+    "detected_phrase": "normative sample of autism",
+    "similarity_score": 0.8665664792060852,
+    "Source": "3569891.txt"
+  },
+  {
     "sentence": "We address disappearance by rematerializing or reappearing the autistic person as a subject and academic, sharing methodologies for advancing autistic thought in and around academia.",
     "detected_phrase": "the autistic person",
     "similarity_score": 0.9080631732940674,
@@ -1400,31 +2678,43 @@
   {
     "sentence": "A7: I think researchers often use terribly offensive language when talking about autism (abnormal, deficit, impaired) - this makes research inaccessible (I cringe at my old research articles where I used words like this...I'm trying to be a better ally now!)",
     "detected_phrase": "autism deficits",
-    "similarity_score": 0.8581865429878235,
+    "similarity_score": 0.8581866025924683,
     "Source": "3569891.txt"
   },
   {
-    "sentence": "Children with ASD often develop a unique pattern of behaviors and different levels of severity, from low to high functioning.",
-    "detected_phrase": "low severity",
-    "similarity_score": 0.8791649341583252,
-    "Source": "3572549.3572587.txt"
+    "sentence": "Parent-driven use of wearable cameras for autism support: A field study with families.",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.8514926433563232,
+    "Source": "3569891.txt"
+  },
+  {
+    "sentence": "Social skills interventions include both skill-based and cognitivebased interventions.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8706859350204468,
+    "Source": "3573428.3573547.txt"
+  },
+  {
+    "sentence": "At the same time, the field of autism diagnosis and treatment generates a large amount of data every day, and the accumulation of basic data has reached a certain scale, so the reasonable use of historical data can effectively improve the efficiency of diagnosis and treatment of children with autism.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8513090014457703,
+    "Source": "3573428.3573547.txt"
+  },
+  {
+    "sentence": "In recent years, as BCI technology has matured and has great advantages in the diagnosis and treatment of autism, many scholars have begun to use BCI systems for ASD interventions.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9110082387924194,
+    "Source": "3573428.3573696.txt"
   },
   {
     "sentence": "In addition, the severity of symptoms in autistic patients may also have an impact on the results of the experiment, as well as the intelligence level of the participants needs to be considered.",
-    "detected_phrase": "autistic symptoms",
-    "similarity_score": 0.9238688945770264,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.8573782444000244,
     "Source": "3573428.3573696.txt"
   },
   {
-    "sentence": "Development and psychopathology, 2008, 20(1):.",
-    "detected_phrase": "psychopathology",
-    "similarity_score": 0.8749167919158936,
-    "Source": "3573428.3573696.txt"
-  },
-  {
-    "sentence": "Development and Psychopathology, 2006, 18(1):.",
-    "detected_phrase": "psychopathology",
-    "similarity_score": 0.8788940906524658,
+    "sentence": "Brief report: preliminary evidence of the N170 as a biomarker of response to treatment in autism spectrum disorder [J].",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8597221374511719,
     "Source": "3573428.3573696.txt"
   },
   {
@@ -1434,15 +2724,45 @@
     "Source": "3575879.3575997.txt"
   },
   {
+    "sentence": "In addition to the motion-related features mentioned above, we also reported clinician evaluation results such as motor functioning score, and severity of autism for each participating child.",
+    "detected_phrase": "low severity of autism",
+    "similarity_score": 0.8579619526863098,
+    "Source": "3577190.3614117.txt"
+  },
+  {
+    "sentence": "Moreover, we reported the ADOS comparison score, a continuous metric ranging from 1 to 10 that describes the severity of a child's autism symptoms compared to children with ASD of similar age and language levels.",
+    "detected_phrase": "high severity of autism",
+    "similarity_score": 0.8650860786437988,
+    "Source": "3577190.3614117.txt"
+  },
+  {
     "sentence": "Low comparison scores are indicative of minimal evidence of autism symptoms, whereas high scores are indicative of severe autism symptoms.",
     "detected_phrase": "symptoms of autism",
     "similarity_score": 0.876555860042572,
     "Source": "3577190.3614117.txt"
   },
   {
+    "sentence": "Finally, the severity of autism is determined by a comprehensive assessment that includes both the ADOS and motor function evaluation.",
+    "detected_phrase": "high severity of autism",
+    "similarity_score": 0.8645309805870056,
+    "Source": "3577190.3614117.txt"
+  },
+  {
+    "sentence": "- Demographic and clinical evaluation for ASD , nine attributes such as participant ID, date of birth, chronological age, social affect score, restricted and repetitive behavior score, motor functioning score, and severity of autism, saved as CSV files.",
+    "detected_phrase": "low severity of autism",
+    "similarity_score": 0.8530173301696777,
+    "Source": "3577190.3614117.txt"
+  },
+  {
+    "sentence": "Standardizing ADOS scores for a measure of severity in autism spectrum disorders.",
+    "detected_phrase": "high severity of autism",
+    "similarity_score": 0.8870398998260498,
+    "Source": "3577190.3614117.txt"
+  },
+  {
     "sentence": "The Autism Diagnostic Observation Schedule--Generic: A standard measure of social and communication deficits associated with the spectrum of autism.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9173306226730347,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8900821208953857,
     "Source": "3577190.3614117.txt"
   },
   {
@@ -1453,8 +2773,20 @@
   },
   {
     "sentence": "## ABSTRACT In this paper, we present Starrypia, a lightweight gamified music adjuvant treatment application to improve the symptoms of mild autistic children, eliminating the geographical and time constraints faced by traditional treatment.",
-    "detected_phrase": "autistic symptoms",
-    "similarity_score": 0.8976463675498962,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.8722466230392456,
+    "Source": "3586183.3606755.txt"
+  },
+  {
+    "sentence": "History of Music Therapy Treatment Interventions for Children with Autism.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8611665964126587,
+    "Source": "3586183.3606755.txt"
+  },
+  {
+    "sentence": "Applied behavior analysis as treatment for autism spectrum disorder.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9002432227134705,
     "Source": "3586183.3606755.txt"
   },
   {
@@ -1470,9 +2802,33 @@
     "Source": "3586183.3606797.txt"
   },
   {
+    "sentence": "However, the case study used only a single training content to improve social skills.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8567004203796387,
+    "Source": "3586183.3606797.txt"
+  },
+  {
+    "sentence": "Autistic people are generally reluctant to engage in nominal activities (e.g., role-playing for social skills training) and tend to be conservative in accepting evaluations of themselves.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8747166395187378,
+    "Source": "3586183.3606797.txt"
+  },
+  {
+    "sentence": "Applied Behavior Analysis Treatment of Autism: The State of the Art.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9412792921066284,
+    "Source": "3586183.3606797.txt"
+  },
+  {
+    "sentence": "Development, Feasibility, and Preliminary Efficacy of an Employment-related Social Skills Intervention for Young Adults with Highfunctioning Autism.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.903231143951416,
+    "Source": "3586183.3606797.txt"
+  },
+  {
     "sentence": "The Autism Diagnostic Observation Schedule-Generic: A standard measure of social and communication deficits associated with the spectrum of autism.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9173305630683899,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8900821805000305,
     "Source": "3587819.3590988.txt"
   },
   {
@@ -1483,8 +2839,8 @@
   },
   {
     "sentence": "Similar virtual therapies can also be provided to address other symptoms of autism.",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.885818600654602,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.879004716873169,
     "Source": "3592855.txt"
   },
   {
@@ -1494,21 +2850,51 @@
     "Source": "3592855.txt"
   },
   {
+    "sentence": "Behavioral Treatments in Autism Spectrum Disorder: What Do We Know.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.870578408241272,
+    "Source": "3592855.txt"
+  },
+  {
     "sentence": "## 2 RELATED WORK According to the American Psychiatric Association, the autism phenotype is characterized by deficits in communication skills, as well as repetitive behaviors.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.8889318704605103,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8807424902915955,
     "Source": "3594781.3594791.txt"
+  },
+  {
+    "sentence": "Although these studies have investigated the use of tabletop interactive devices or tablet devices to support children with high support needs in autism, most of the use of TUIs to develop cognitive skills has received limited attention in comparison to the development of social perceptual skills.",
+    "detected_phrase": "high support needs of autism",
+    "similarity_score": 0.9723379611968994,
+    "Source": "3594806.3594859.txt"
+  },
+  {
+    "sentence": "[img-1.jpeg](img-1.jpeg) Figure 2: traditional Montessori-like toys There are even other examples of augmented toys have been used to evaluate fine motor skills proficiency (e.g.,,, ), for social skill training (e.g.,, ), and even others have combined both aspects such as \"Smart Toys\".",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9408347606658936,
+    "Source": "3594806.3594859.txt"
+  },
+  {
+    "sentence": "We hope the game design can lead kids to be interested in humans, which is essential in training social skills.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8808567523956299,
+    "Source": "3596251.txt"
+  },
+  {
+    "sentence": "Previous research has indicated that technology was a major strength and interest for those on the autism spectrum.",
+    "detected_phrase": "special interests for autism",
+    "similarity_score": 0.8704842329025269,
+    "Source": "3597638.3608392.txt"
+  },
+  {
+    "sentence": "Many studies on online communities for autism have focused on social support needs for parents and caregivers of autistic individuals and how they advocate for social change and connect with others.",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.8502264022827148,
+    "Source": "3597638.3608413.txt"
   },
   {
     "sentence": "Caregivers, family, and friends (CFF), as well as community members, although limited in our dataset, tended to ask questions to improve their support of an autistic person in their lives.",
     "detected_phrase": "the autistic person",
     "similarity_score": 0.9030638337135315,
-    "Source": "3597638.3608413.txt"
-  },
-  {
-    "sentence": "I think he just looked up symptoms of autism and is faking it to manipulate me... Do any of you have suggestions on how I can make him stop trying to manipulate me?\"",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.8660835027694702,
     "Source": "3597638.3608413.txt"
   },
   {
@@ -1521,6 +2907,12 @@
     "sentence": "We take the view that our participants sought to thoroughly explain and describe their thoughts as autistic individuals to us as non-autistic listeners.",
     "detected_phrase": "the autistic person",
     "similarity_score": 0.8503069281578064,
+    "Source": "3597638.3608416.txt"
+  },
+  {
+    "sentence": "ruthy0nfire: \"One of my special interests as an autistic person is psychology.",
+    "detected_phrase": "special interests for autism",
+    "similarity_score": 0.8692175149917603,
     "Source": "3597638.3608416.txt"
   },
   {
@@ -1549,8 +2941,8 @@
   },
   {
     "sentence": "Accordingly, our position towards inclusive design is shaped by the neurodiversity movement, which rejects medicalised notions of autism as deficit, conceptualising it instead as a different cognitive style.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9050262570381165,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8951451182365417,
     "Source": "3610048.txt"
   },
   {
@@ -1566,10 +2958,34 @@
     "Source": "3610057.txt"
   },
   {
+    "sentence": "Virtual and augmented reality in social skills interventions for individuals with autism spectrum disorder: A scoping review.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9048869013786316,
+    "Source": "3611659.3615713.txt"
+  },
+  {
+    "sentence": "History of music therapy treatment interventions for children with autism.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8611665964126587,
+    "Source": "3611659.3615713.txt"
+  },
+  {
     "sentence": "The symptoms of autism spectrum disorders in adolescence and adulthood.",
     "detected_phrase": "symptoms of autism",
     "similarity_score": 0.9042900800704956,
     "Source": "3611659.3615713.txt"
+  },
+  {
+    "sentence": "To understand multi-faceted perspectives of collaborative job seeking practices, we identified three main stakeholders: (1) the individuals with autism who had/have experience in collaborating with their social surroundings (Job seekers), (2) their close social surroundings, such as their family members and friends who support the people with autism in their job seeking processes (Surroundings), and (3) career experts who have years of expertise assisting people with autism throughout their job search journey (Experts).",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.8523414731025696,
+    "Source": "3613904.3642197.txt"
+  },
+  {
+    "sentence": "While we found comprehensive research on (1) the ways employers can transform their workplaces in a more neurodivergentfriendly fashion, and (2) the system-level approaches that provide varying job-related support for people with autism, relatively few approaches have been found aiming to understand how people with autism are leveraging their social capital when seeking for a job.",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.8580670356750488,
+    "Source": "3613904.3642197.txt"
   },
   {
     "sentence": "By applying a set of AI-driven intelligent features, we believe that future design can offload the cognitive burden for people with autism, so that they can achieve the varying tasks, such as writing and reading e-mails, making applications, and preparing interviews, with less attention.",
@@ -1585,8 +3001,8 @@
   },
   {
     "sentence": "This approach engages imagination, creativity, and open dialogcharacteristics of autistic adults that are not commonly drawn upon for research and that counter limiting stereotypes of autism as characterized by deficits in areas of emotions, communication, social skills, and imaginative skills.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9081851243972778,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8888526558876038,
     "Source": "3613904.3642210.txt"
   },
   {
@@ -1602,6 +3018,12 @@
     "Source": "3613904.3642567.txt"
   },
   {
+    "sentence": "Severity of autism spectrum disorders: Current conceptualization, and transition to DSM-5.",
+    "detected_phrase": "high severity of autism",
+    "similarity_score": 0.8733094334602356,
+    "Source": "3613904.3642567.txt"
+  },
+  {
     "sentence": "ACM ISBN --0/24/05 https://doi.org/10.1145/3613904.3642626:  In this paper, we use identity-first language (i.e., \"autistic person\") rather than personfirst language (i.e., \"person with autism\") because it is preferred by many autistic people and because the use of person-first language may exacerbate the stigma associated with autism.",
     "detected_phrase": "the autistic person",
     "similarity_score": 0.8742331266403198,
@@ -1614,9 +3036,21 @@
     "Source": "3613904.3642798.txt"
   },
   {
+    "sentence": "Traditionally, studies in human-robot interaction (HRI) research are centered around the medical model view of autism which treats autism as a disorder that needs to be cured so that a person can be made \"normal\".",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8884515762329102,
+    "Source": "3613904.3642798.txt"
+  },
+  {
     "sentence": "This deficit-based understanding is central to the medical model, which focuses mainly on the causation or cure of autism as a disorder.",
     "detected_phrase": "cure autism",
-    "similarity_score": 0.8958121538162231,
+    "similarity_score": 0.8958122730255127,
+    "Source": "3613904.3642798.txt"
+  },
+  {
+    "sentence": "Figure 2 illustrates how 15 of the studies in our corpus used robots that looked like animals to play a \"mentor\" role focused on providing social skills training to autistic end-users.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.9383474588394165,
     "Source": "3613904.3642798.txt"
   },
   {
@@ -1626,10 +3060,52 @@
     "Source": "3613904.3642798.txt"
   },
   {
-    "sentence": "- Report participant demographics to help readers contextualize your findings ### 3.3 Power Imbalance Many foundational works in autism research have applied social deficit theories; instead of studying the unique social behaviors preferred by autistic individuals, established research in developmental psychology highlights autistic people's \"deficit\" of neurotypical social norms such as the ability to \"mind read\" and make \"appropriate\" eye contact .",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.8610862493515015,
+    "sentence": "For example, there is a well-documented gender bias in the medical field in diagnosis and treatment of autism, and an underrepresentation of women and girls with autism in the media.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9150094389915466,
     "Source": "3613904.3642798.txt"
+  },
+  {
+    "sentence": "A 2019 investigation of US federal funding for autism research revealed that the majority of the grants awarded for research focused on the biological aspects, treatment, and interventions for autism and that these funding patterns remained constant.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9010926485061646,
+    "Source": "3613904.3642798.txt"
+  },
+  {
+    "sentence": "For example, Figure 2 shows how human and animal-like robots continue to be employed in mentor roles to provide autistic end-users with skills training and therapy for selected social \"deficits\".",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8641583919525146,
+    "Source": "3613904.3642798.txt"
+  },
+  {
+    "sentence": "Human-robot interaction in autism treatment: a case study on three pairs of autistic children as twins, siblings, and classmates.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8967815637588501,
+    "Source": "3613904.3642798.txt"
+  },
+  {
+    "sentence": "Previous research to improve these opportunities tends to invoke social skill interventions solely for autistic children or is focused on designing for only one group, rather than considering the interactions or needs of all children in neurodiverse groups .",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8888559341430664,
+    "Source": "3613904.3642809.txt"
+  },
+  {
+    "sentence": "One such technology designed to deliver social skill interventions is Auti, which was created to promote social play interactions among autistic children by using positive reinforcement to encourage 'positive' social play behaviors.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8853849768638611,
+    "Source": "3613904.3642809.txt"
+  },
+  {
+    "sentence": "Commentary on Social Skills Training Curricula for Individuals with ASD: Social Interaction, Authenticity, and Stigma.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.883968710899353,
+    "Source": "3613904.3642809.txt"
+  },
+  {
+    "sentence": "As we examined digital interventions aimed at enhancing the social skills of autistic children, we observed the efficacy of game applications in improving autistic children's fine motor skills (i.e., hand dexterity).",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9252945184707642,
+    "Source": "3613904.3642829.txt"
   },
   {
     "sentence": "Many prior technological interventions for autistic individuals have traditionally had a curative perspective, aiming to \"fix\" perceived deficits or challenges associated with autism.",
@@ -1641,6 +3117,18 @@
     "sentence": "Unlike other subtypes of autism, High-Functioning Autism (HFA) individuals have normal intelligence, but encounter difficulties in establishing satisfying social relationships due to deficiencies in emotional recognition and expression.",
     "detected_phrase": "high functioning autism",
     "similarity_score": 0.8776018619537354,
+    "Source": "3613904.3642899.txt"
+  },
+  {
+    "sentence": "Previous research has introduced various social and emotional interventions tailored to HFA children, including Social Skills Training (SST), Cognitive-Behavioral Therapy (CBT), and Social Story Interventions.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8922843933105469,
+    "Source": "3613904.3642899.txt"
+  },
+  {
+    "sentence": "This can enhance HFA children's comprehension of social rules across various contexts, thus empowering them to transfer and generalize their social skills beyond the training environment.",
+    "detected_phrase": "social skill training",
+    "similarity_score": 0.8903781175613403,
     "Source": "3613904.3642899.txt"
   },
   {
@@ -1656,15 +3144,21 @@
     "Source": "3613904.3642899.txt"
   },
   {
+    "sentence": "Examining DIR/Floortime  as a Treatment for Children With Autism Spectrum Disorders: A Review of Research and Theory.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8913118243217468,
+    "Source": "3613904.3642899.txt"
+  },
+  {
     "sentence": "As a result, child psychiatrists and psychologists can swiftly identify the emotional state of ASD children, enabling them to provide more effective treatments and alleviate symptoms associated with autism spectrum disorder because they are used to facing problems (see Figure 2).",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.9144232869148254,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.9137341976165771,
     "Source": "3629606.3629642.txt"
   },
   {
     "sentence": "The employed tactics can be personalised on autism symptom severity, types of problems encountered and user preferences.",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.8726798892021179,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.8593385219573975,
     "Source": "3631700.3664898.txt"
   },
   {
@@ -1680,6 +3174,12 @@
     "Source": "3635148.txt"
   },
   {
+    "sentence": "Pregnancy, childbirth, and menopause professional services lack awareness of autism and appropriate support is rare.",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.8666943311691284,
+    "Source": "3635148.txt"
+  },
+  {
     "sentence": "Any autism research priority that was explicitly relevant to infants, children, adolescents younger than 20 years old and their parents and educators, or they were purely relevant to genetics, neurology, neuroimaging, and clinical trials of medications and/or sought to cure autism, were excluded, and thus not coded.",
     "detected_phrase": "cure autism",
     "similarity_score": 0.8672592043876648,
@@ -1688,13 +3188,25 @@
   {
     "sentence": "Thus they have been excluded from the selected research priorities, along with priorities relevant to investigating cures and causes of autism, which we deemed out of the scope of computing research and HCI.",
     "detected_phrase": "cure autism",
-    "similarity_score": 0.8684723377227783,
+    "similarity_score": 0.8684724569320679,
     "Source": "3635148.txt"
   },
   {
     "sentence": "The statements of 13 editors were excluded as they were not relevant to adults, or purely relevant to genetics, neurology, neuroimaging, and clinical trials of medications and/or sought to cure autism.",
     "detected_phrase": "cure autism",
-    "similarity_score": 0.8672593832015991,
+    "similarity_score": 0.8672592639923096,
+    "Source": "3635148.txt"
+  },
+  {
+    "sentence": "### 5.2.4 Social skills No paper studied interventions to improve social skills specifically, while other papers did work related to social skills broadly but not relevant to the identified research priority.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.922164797782898,
+    "Source": "3635148.txt"
+  },
+  {
+    "sentence": "The paper of Mazurek and Sundberg do not research a specific intervention to improve social skills.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.9349219799041748,
     "Source": "3635148.txt"
   },
   {
@@ -1710,10 +3222,58 @@
     "Source": "3635148.txt"
   },
   {
+    "sentence": "Boscardin, Telepractice in the assessment and treatment of individuals with autism spectrum disorders: A systematic review.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8608031868934631,
+    "Source": "3635148.txt"
+  },
+  {
+    "sentence": "Recommendations for the design of inclusive apps for the treatment of autism: An approach to design focused on inclusive users.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9373801946640015,
+    "Source": "3639701.3656322.txt"
+  },
+  {
+    "sentence": "Research progress on the etiology and treatment methods of autism.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8633455038070679,
+    "Source": "3644116.3644182.txt"
+  },
+  {
     "sentence": "Salience network-based classification and prediction of symptom severity in children with autism [J].",
     "detected_phrase": "symptoms of autism",
     "similarity_score": 0.8855370283126831,
     "Source": "3644116.3644245.txt"
+  },
+  {
+    "sentence": "# The Application of Artificial Intelligence in the Recognition, Diagnosis, and Treatment of Autism Jiaojiao WangCollege of Humanities, Jiangxi University of ChineseMedicine, Department of Psychosomatic Medicine, TheFirst Affiliated Hospital of Nanchang University,Nanchang China2904764854@qq.com #### Abstract Purpose of the review: Traditional autism screening and diagnosis has some limitations, they cannot meet the needs of large-scale screening and diagnosis.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9114707708358765,
+    "Source": "3644116.3644267.txt"
+  },
+  {
+    "sentence": "The Application of Artificial Intelligence in the Recognition, Diagnosis, and Treatment of Autism.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9114710092544556,
+    "Source": "3644116.3644267.txt"
+  },
+  {
+    "sentence": "In recent years, Artificial intelligence (AI) and big data mining technologies have been effectively applied to mental health assessment, automated medical diagnosis, disease intervention and rehabilitation, bringing the possibility of a major breakthrough in the screening, diagnosis and treatment of autism in infants and children.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.9015485644340515,
+    "Source": "3644116.3644267.txt"
+  },
+  {
+    "sentence": "Focusing on the topic of establishing an intelligent sensorless screening, diagnosis and treatment system for autism, this paper proposes that there are two main directions: (1) Lack of effective screening tools for infants and toddlers.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8756244778633118,
+    "Source": "3644116.3644267.txt"
+  },
+  {
+    "sentence": "Research on treatment for autism mainly about the development of more intelligent therapeutic robots based on modal interaction.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8976074457168579,
+    "Source": "3644116.3644267.txt"
   },
   {
     "sentence": "However, There is a low level of autism screening, diagnosis and intervention system in China.",
@@ -1722,15 +3282,27 @@
     "Source": "3644116.3644267.txt"
   },
   {
-    "sentence": "# 3.4 Positionality Aside from a few examples within the HCI community, most researchers working in the space of play, technology, and autism often adopt a deficit narrative and take an \"outsider\" approach to autism, which does not support children exercise their rights.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.8726754188537598,
-    "Source": "3648619.txt"
+    "sentence": "Presently, animal therapy finds widespread use in autism treatment for children and elderly care.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8752948045730591,
+    "Source": "3647817.3647825.txt"
+  },
+  {
+    "sentence": "Social robots can assist in the treatment of children with autism in a variety of ways, such as communicating with the child and keeping them company during injections to distract them from the pain and stressful experience.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8880276679992676,
+    "Source": "3647817.3647825.txt"
   },
   {
     "sentence": "Critically contextualising 'normal' development and the construction of the autistic individual from: The Routledge International Handbook of Critical Autism Studies Routledge Burdette, H.L., Whitaker, R.C.",
     "detected_phrase": "the autistic person",
     "similarity_score": 0.8689533472061157,
+    "Source": "3648619.txt"
+  },
+  {
+    "sentence": "Process Measures of Dyadic Collaborative Interaction for Social Skills Intervention in Individuals with Autism Spectrum Disorders.",
+    "detected_phrase": "social skill intervention",
+    "similarity_score": 0.8981384038925171,
     "Source": "3648619.txt"
   },
   {
@@ -1741,14 +3313,32 @@
   },
   {
     "sentence": "M. B. Nebel et al., \"Intrinsic visual-motor synchrony correlates with social deficits in autism,\" Biol Psychiatry, vol.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.8904687762260437,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.874858558177948,
     "Source": "3655598.txt"
+  },
+  {
+    "sentence": "# Stress Detection of Autistic Adults during Simulated Job Interviews Using a Novel Physiological Dataset and Machine Learning MIROSLAVA MIGOVICH, Department of Mechanical Engineering, Vanderbilt University DEEKSHA ADIANI, Department of Computer Science, Vanderbilt UniversityMICHAEL BREEN, Robotics and Autonomous Systems Lab, Vanderbilt UniversityAMY SWANSON, Treatment and Research Institute for Autism Spectrum Disorder (TRIAD), VanderbiltUniversity Medical CenterTIMOTHY J. VOGUS, Owen Graduate School of Management, Vanderbilt UniversityNILANJAN SARKAR, Department of Mechanical Engineering, Vanderbilt University #### Abstract The interview process has been identified as one of the major barriers to employment of autistic individuals, which contributes to the staggering rate of under and unemployment of autistic adults.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8570618629455566,
+    "Source": "3659211.3659232.txt"
+  },
+  {
+    "sentence": "Authors' addresses: M. Migovich (Corresponding author) and N. Sarkar, Department of Mechanical Engineering, Vanderbilt University, 2400 Highland Ave Room 101 Nashville, TN 37212; e-mails: [miroslava.migovich, nilanjan.sarkar]@vanderbilt.edu; D. Adiani, Department of Computer Science, Vanderbilt University, 2400 Highland Ave Room 515 Nashville, TN 37212; e-mail: deeksha.m.adiani@vanderbilt.edu; M. Breen, Robotics and Autonomous Systems Lab, Vanderbilt University, 2400 Highland Ave Room 518 Nashville, TN 37212; e-mail: mbreen703@gmail.com; A. Swanson, Treatment and Research Institute for Autism Spectrum Disorder (TRIAD), Vanderbilt University Medical Center, 1500 21st Avenue South 4255 Village at Vanderbilt Nashville, TN 37212; e-mail: amy.r.swanson@vumc.org; T. J. Vogus.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8570617437362671,
+    "Source": "3659211.3659232.txt"
   },
   {
     "sentence": "This is especially essential for autistic individuals due to the fact that a high percentage of this population is under or unemployed and have identified the interview as one of the major barriers to employment.",
     "detected_phrase": "the autistic person",
     "similarity_score": 0.8733903169631958,
+    "Source": "3659211.3659232.txt"
+  },
+  {
+    "sentence": "Effects of an employer-based intervention on employment outcomes for youth with significant support needs due to autism.",
+    "detected_phrase": "low support needs of autism",
+    "similarity_score": 0.9000619649887085,
     "Source": "3659211.3659232.txt"
   },
   {
@@ -1758,21 +3348,21 @@
     "Source": "3660344.txt"
   },
   {
-    "sentence": "## 5 DISCUSSION In the past, state-of-the-art methods typically employed a unified supervised learning approach, assuming that the label of each instance inherits the label of the corresponding bag, indicating a high degree of autistic symptoms in every case.",
-    "detected_phrase": "autistic symptoms",
-    "similarity_score": 0.9367882609367371,
+    "sentence": "As a result, autism diagnosis and treatment in China encounter at least two challenges.",
+    "detected_phrase": "treatment of autism",
+    "similarity_score": 0.8640146851539612,
     "Source": "3665689.3665715.txt"
   },
   {
     "sentence": "C. R. Costa and L. Carolina, \"Findings on sensory deficits in autism: Implications for understanding the disorder,\" Psychology \\& Neuroscience, vol.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9282769560813904,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8953222036361694,
     "Source": "icst.pervasivehealth.2013.252156.txt"
   },
   {
     "sentence": "Our work addresses one particular under-studied speech aspect: articulation-related acoustics, one of the broad autism spectrum symptoms.",
-    "detected_phrase": "autism symptoms",
-    "similarity_score": 0.9239187240600586,
+    "detected_phrase": "symptoms of autism",
+    "similarity_score": 0.9166693687438965,
     "Source": "TASLP.2023.3330605.txt"
   },
   {
@@ -1783,14 +3373,20 @@
   },
   {
     "sentence": "C. Lord et al., \"The autism diagnostic observation schedule-generic: A. standard measure of social and communication deficits associated with the spectrum of autism,\" J. Autism Develop.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.9173307418823242,
+    "detected_phrase": "autism deficits",
+    "similarity_score": 0.8900822997093201,
     "Source": "TASLP.2023.3330605.txt"
   },
   {
     "sentence": "C.-P. Chen, S. S.-F. Gau, and C.-C. Lee, \"Learning converse-level multimodal embedding to assess social deficit severity for autism spectrum disorder,\" in Proc.",
-    "detected_phrase": "deficits in autism",
-    "similarity_score": 0.8627275228500366,
+    "detected_phrase": "high severity of autism",
+    "similarity_score": 0.8587720990180969,
+    "Source": "TASLP.2023.3330605.txt"
+  },
+  {
+    "sentence": "K. Gotham, A. Pickles, and C. Lord, \"Standardizing ADOS scores for a measure of severity in autism spectrum disorders,\" J. Autism Develop.",
+    "detected_phrase": "high severity of autism",
+    "similarity_score": 0.8870400190353394,
     "Source": "TASLP.2023.3330605.txt"
   },
   {
@@ -1822,11 +3418,5 @@
     "detected_phrase": "at risk for ASD",
     "similarity_score": 0.8500069379806519,
     "Source": "TCBB.2015.2440244.txt"
-  },
-  {
-    "sentence": "Thus, the abnormal connectivity organization might be associated with many autistic symptoms.",
-    "detected_phrase": "autistic symptoms",
-    "similarity_score": 0.889665961265564,
-    "Source": "TCBB.2015.2476787.txt"
   }
 ]
