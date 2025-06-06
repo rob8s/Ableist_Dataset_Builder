@@ -12,18 +12,46 @@ nltk.download('wordnet')
 
 
 class PhraseDetection:
-    def __init__(self, phrases, alternatives, window_size=10, threshold=0.75):
+    """
+    A class to detect semantically similar phrases in a given text using sentence embeddings.
+
+    Attributes:
+        model (SentenceTransformer): The sentence transformer model used to embed phrases and text.
+        lemmatizer (WordNetLemmatizer): NLTK lemmatizer for preprocessing.
+        window_size (int): Number of words per sliding window in a sentence.
+        threshold (float): Cosine similarity threshold to flag a sentence.
+        raw_phrases (List[str]): Original phrases to detect.
+        phrase_embeddings (np.ndarray): Normalized embeddings of lemmatized phrases.
+    """
+
+    def __init__(self, phrases, window_size=10, threshold=0.75):
+        """
+        Initializes the PhraseDetection object with target phrases and configuration.
+
+        Args:
+            phrases (List[str]): List of target phrases to detect.
+            window_size (int, optional): Size of the sliding window. Defaults to 10.
+            threshold (float, optional): Cosine similarity threshold for detection. Defaults to 0.75.
+        """
         self.model = SentenceTransformer('all-MiniLM-L6-v2')
         self.lemmatizer = WordNetLemmatizer()
         self.window_size = window_size
         self.threshold = threshold
 
-        self.alternatives = alternatives
         self.raw_phrases = phrases
         lemmatized_phrases = [self.lemmatize_text(p) for p in phrases]
         self.phrase_embeddings = normalize(self.model.encode(lemmatized_phrases))
 
     def clean_text(self, text):
+        """
+        Cleans input text by removing formatting, HTML, and special characters.
+
+        Args:
+            text (str): Raw input text.
+
+        Returns:
+            str: Cleaned and formatted plain text.
+        """
         text = BeautifulSoup(text, "html.parser").get_text()
         text = re.sub(r'-\n', '', text)
         text = re.sub(r'(\n\|.*\|\n)+', '\n', text)
@@ -42,11 +70,29 @@ class PhraseDetection:
         return text.strip()
 
     def lemmatize_text(self, text):
+        """
+        Tokenizes and lemmatizes the input text.
+
+        Args:
+            text (str): Text to lemmatize.
+
+        Returns:
+            str: Space-separated lemmatized words.
+        """
         tokens = word_tokenize(text.lower())
         lemmatized = [self.lemmatizer.lemmatize(word) for word in tokens]
         return ' '.join(lemmatized)
 
     def create_windows(self, sentence):
+        """
+        Generates overlapping windows of words from a sentence for local phrase comparison.
+
+        Args:
+            sentence (str): Sentence to create windows from.
+
+        Returns:
+            List[str]: List of text windows.
+        """
         lemmatized = self.lemmatize_text(sentence)
         words = lemmatized.split()
 
@@ -61,6 +107,15 @@ class PhraseDetection:
         return windows
 
     def process_text(self, text):
+        """
+        Detects semantically similar phrases in the input text.
+
+        Args:
+            text (str): Input document text to analyze.
+
+        Returns:
+            List[Dict]: List of flagged sentences with the detected phrase and similarity score.
+        """
         cleaned_text = self.clean_text(text)
         sentences = sent_tokenize(cleaned_text)
 
@@ -68,9 +123,6 @@ class PhraseDetection:
 
         for sentence in sentences:
             windows = self.create_windows(sentence)
-
-            if not windows:
-                continue
 
             window_embeddings = normalize(self.model.encode(windows))
             similarity_matrix = np.dot(self.phrase_embeddings, window_embeddings.T)
@@ -80,17 +132,14 @@ class PhraseDetection:
             max_score = max_similarities[best_phrase_idx].item()
 
             if max_score >= self.threshold:
-                if best_phrase_idx < len(self.alternatives):
-                    best_phrase = self.raw_phrases[best_phrase_idx]
-                    alternative = self.alternatives[best_phrase_idx]
+                best_phrase = self.raw_phrases[best_phrase_idx]
 
-                    print(f"Detected phrase: '{best_phrase}' | Sentence: '{sentence}' | Score: {max_score:.4f}")
+                print(f"Detected phrase: '{best_phrase}' | Sentence: '{sentence}' | Score: {max_score:.4f}")
 
-                    flagged_sentences.append({
-                        "sentence": sentence,
-                        "detected_phrase": best_phrase,
-                        # "suggested_alternative": alternative,
-                        "similarity_score": max_score
-                    })
+                flagged_sentences.append({
+                    "sentence": sentence,
+                    "detected_phrase": best_phrase,
+                    "similarity_score": max_score
+                })
 
         return flagged_sentences

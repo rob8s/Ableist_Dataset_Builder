@@ -7,11 +7,8 @@ from phrase_detection import PhraseDetection
 with open("ableist_phrases.txt") as f:
     phrases = [line.strip() for line in f if line.strip()]
 
-with open("suggested_replacements.txt") as f:
-    alternatives = [line.strip() for line in f if line.strip()]
-
 # Initialize detector
-detector = PhraseDetection(phrases, alternatives=alternatives, window_size=7, threshold=0.85)
+detector = PhraseDetection(phrases, window_size=7, threshold=0.85)
 
 # Directory of text files
 with open("rewritten_sentences.json", "r") as file:

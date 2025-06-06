@@ -6,11 +6,8 @@ from phrase_detection import PhraseDetection
 with open("ableist_phrases.txt") as f:
     phrases = [line.strip() for line in f if line.strip()]
 
-with open("suggested_replacements.txt") as f:
-    alternatives = [line.strip() for line in f if line.strip()]
-
 # Initialize detector
-detector = PhraseDetection(phrases, alternatives=alternatives, window_size=7, threshold=0.85)
+detector = PhraseDetection(phrases, window_size=7, threshold=0.85)
 
 # Directory of text files
 input_dir = "ACM_Papers_Mistral"
@@ -24,6 +21,7 @@ for filename in os.listdir(input_dir):
         with open(file_path, "r", encoding="utf-8") as f:
             paper_text = f.read()
 
+        # Clean and process the text
         flagged = detector.process_text(paper_text)
         for entry in flagged:
             entry["Source"] = filename 
