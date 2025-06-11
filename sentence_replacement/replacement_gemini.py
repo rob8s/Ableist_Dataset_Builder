@@ -30,7 +30,7 @@ if os.path.exists(output_path):
 
 # For Gemini
 failed_sentences = []
-client = genai.Client(api_key="AIzaSyAJCXF94YdQDi5dLL9TZrW8YFy4jsNYkrA")
+client = genai.Client(api_key=API_KEY)
 
 system_prompt = "You are a helpful assistant that rewrites sentences to be more inclusive. Replace ableist language with non-ableist alternatives while keeping the meaning and structure of the sentence. Only return the full rewritten sentence as a single line."
 
